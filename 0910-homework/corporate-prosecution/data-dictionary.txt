@@ -1,0 +1,91 @@
+DATA DICTIONARY
+
+PLEA & PROSECUTION AGREEMENTS (common variables shared by both types of agreements):
+
+ADDITIONAL_REGULATORY_FINE_OR_PAYMENT
+AGREEMENT_TYPE - Indicates whether the agreement is a plea ("plea"), non-prosecution agreement ("NP"), or deferred prosecution agreement ("DP")
+CASE_ID - Docket number assigned by the court.
+CASE_NAME - Name of case (e.g. "United States of America v. Smith Corporation").
+COMMUNITY_SERVICE_OR_OTHER - Describes whether or not community service or other punishments were part of the agreement.
+COMPANY - Name of the entity.
+COUNTRY - Country in which the entity was incorporated.
+DATE - Date of judgment for plea agreements and date of agreement for deferred & non-prosecution agreements (YYYY-MM-DD).  Date of dismissal for dismissed agreements.
+DISPOSITION_TYPE - Indicates whether the prosecution was resolved through a type of agreement: a plea ("plea"); non-prosecution agreement ("NP"); or deferred prosecution agreement ("DP"); or whether the prosecution was resolved at trial in a conviction ("trial conviction") or acquittal ("acquittal") or a dismissal before or during trial ("dismissal"); as well as by a declination in which the case was dismissed by the prosecutor ("declination").
+DOCKET_NO - For plea agreements this number indicates the docket entry in which the plea agreement appears. For deferred prosecution agreements this number indicates the docket entry in which the DPA appears.
+FINANCIAL_INSTITUTION - Indicates whether or not entity was a financial institution (Y/N).
+FINE - Amount of fine in U.S. dollars.
+FORFEITURE_DISGORGEMENT - Amount of forfeiture and/or disgorgement in U.S. dollars.
+JUDGMENT_DATE - Date of judgment as found in the docket sheet (YYYY-MM-DD).
+NOTES
+PLEA_DATE - Date of the plea agreement as found in the docket sheet (YYYY-MM-DD).
+PRIMARY_CRIME_CODE - This can include any one of the following:
+
+	Accounting Fraud - federal crimes relating to false statements or entries, such as under 18 U.S.C. § 1001 (a)(3).
+	Antitrust - prosecutions brought under the Sherman Antitrust Act's criminal provisions.
+	APPS - violations of the Act to Prevent Pollution from Ships (APPS), 33 U.S.C. §§ 1905-1915.
+	Bank Secrecy Act - prosecutors brought under the Bank Secrecy Act, including 18 U.S.C. § 5331-5332 regarding failure to file reports of financial transactions or lack of adequate controls to prevent money laundering
+	Bribery - violations of federal bribery and gratuities statutes such as 18 U.S.C. § 201.
+	Bribery - violations of federal bribery and gratuities statutes such as 18 U.S.C. § 201.
+	Controlled Substances - these include violations of the Controlled Substances Act (CSA).
+	Environmental - these include prosecutions brought under any of the range of federal environmental statutes, including the Act to Prevent Pollution from Ships, the Clean Air Act, the Clear Water Act, the Resource Conversation and Recovery Act, and statutes regulating marine pollution, handling of hazardous waste, and others.
+	FCPA (Foreign Corrupt Practices Act) - these include criminal prosecutions brought under the FCPA's bribery provisions and willful violations of the internal controls and books and records provisions, 15 U.S.C. §§ 78dd-1, et seq. A useful federal resource guide explaining these provisions is available here.
+	False Statements - these include prosecutions for making false statements to federal authorities under statutes including 18 U.S.C. § 1001.
+	Firearms - violations of federal criminal firearms registration and sales statutes.
+	Food - criminal violations of federal food safety laws including for adulterating or misbranding under the Federal Food, Drug, and Cosmetic Act (FDCA).
+	Fraud - these include mail fraud and wire fraud prosecutions brought under 18 U.S.C. § 1341 and 1343, as well as other fraud crimes, such as conspiracy to defraud the federal government, 18 U.S.C. §371. However, health care fraud, securities fraud, and tax fraud cases are listed separately.
+	Gambling - illegal gambling business under 18 U.S. Code § 1955 or violations of other federal gambling laws.
+	Health Care Fraud - these include prosecutions brought under 18 U.S.C. § 1347.
+	Immigration - these include prosecutions brought for violating immigration rules concerning employment of noncitizens and unlawful employment practices under 8 U.S.C. §1324a and b, as well as crimes concerning bringing in and harboring illegal aliens under 8 U.S.C. §1324.
+	Import / Export - these include violations of U.S. customs regulations concerning imports and exports as well as violations of U.S. sanctions regarding international trade and financial transactions, including violations of the International Emergency Economic Powers Act (IEEPA).
+	Kickbacks - violation of the federal anti-kickback statutes, including 42 U.S. Code § 1320a-7b.
+	Money Laundering - these include prosecutions brought under 18 U.S.C.§1956-1957 and under 18 U.S.C. §5324 regarding structuring transactions to evade reporting requirements.
+	Obstruction of Justice - these include prosecutions brought under 18 U.S.C. § 1503 and companion statutes.
+	OSHA - workplace safety crimes, involving the willful violation of a worker safety standard in the Occupational Safety and Health Act, as well as other workplace safety statutes such as and the Federal Mine Safety and Health Act.
+	Other - additional federal crimes, of which there are many, that do not fall within the categories described here.
+	Pharmaceutical - these include prosecutions brought under the Federal Food, Drug, and Cosmetic Act (FDCA) as well as anti-kickback and other related claims involving pharmaceutical sales and branding.
+	Securities Fraud - these include prosecutions brought under 18 U.S.C. § 1348.
+	Tax Fraud - these include prosecutions brought under 26 U.S.C. § 7201 and 7201 regarding attempted federal tax evasion and fraud and false statements to tax authorities.
+	Wildlife - prosecutions under wildlife conversation laws including under Endangered Species Act and the Lacey Act.
+	
+PROBATION_LENGTH - Length of probation in months.
+REC_ID - Unique id assigned to each observation.
+RESTITUTION - Amount of restitution in U.S. dollars.
+SOURCE - Source for document.
+TICKER - Ticker symbol for U.S. publicly traded entities.
+TOTAL_PAYMENT - Sum of all monetary penalties (i.e. fines, restitution, forfeiture, disgorgements, community service, etc.)
+USAO - U.S. Attorney's Offices involved in the prosecution. Multiple entries are separated by a "|".
+US_PUBLIC_CO - Indicates whether or not entity was a U.S. public company (Y/N).
+
+
+
+PROSECUTION AGREEMENTS (variables specific to prosecution agreements):
+
+ACCEPTS_RESPONSIBILITY - in the agreement, the firm was credited with having accepted responsibility for the relevant crimes
+AGREEMENT_REQUIRED_NEW_POSITIONS - the agreement stated that new positions be created at a firm, typically related to compliance
+AGREEMENT_REQUIRED_OUTSIDE_AUDITORS_OR_EXPERTS - the agreement stated that the firm must retain outsiders to examine books and records or to provide other assistance, typically in implementing compliance provisions
+CITATION_AND_DESCRIPTION - additional citation to the agreement and description of its contents
+COMPLIANCE_PROGRAM_DESCRIPTION
+COMPLIANCE_PROGRAM_REQUIRED_BY_AGREEMENT - the agreement required the firm to create a system to detect and prevent future criminality
+COMPLIANCE_REQUIRED_BY_REGULATORS - administrative enforcers separately required the firm to create a system to detect and prevent future criminality
+CRIME_DESC - additional description of the crimes involved
+DESCRIPTION_OF_PAYMENTS - additional description of the different types of payments required by the agreement
+DOES_AGREEMENT_DISCUSS_REASONS_OR_RELEVENT_CONSIDERATIONS_FOR_LENIENCY - whether the agreement describes why a deferred or non-prosecution agreement was entered with the firm
+DOJ_CAN_UNILATERALLY_TERMINATE - a provision specifying that prosecutors can determine, without being subject to additional review, that a firm is in breach of an agreement, in which case the agreement is no longer effective and prosecutors have the option to proceed with a criminal prosecution
+FINE_CALCULATION_INCLUDED - an agreement includes a calculation under the U.S. Sentencing Guidelines for the fine amount
+FINE_DESCRIPTION - a further description of the fines paid under the agreement
+INDEP_MONITOR_REQUIRED - does the agreement require that an independent actor be retained to supervise implementation of a compliance program
+MUST_COMPORT_WITH_USSG_OR_AUDIT_COMPLIANCE - does the agreement require that compliance programs be audited for their effectiveness or periodically assessed or reviewed
+OTHER_AGREEMENT_REQUIRED_GOVERNANCE_CHANGES - a parallel agreement involving the same conduct but with another enforcer also imposes changes on a firm's governance, such as compliance program changes
+OTHER_COMPLIANCE_OFFICER_OR_CONSULTANT_REQUIRED - a requirement that the firm retain a compliance consult or create a position for a compliance officer that is not a third party or wholly independent monitor, but a person working as an agent of the firm tasked with compliance work
+PARALLEL_CIVIL_SUIT - was there a private action filed against the firm arising from the same conduct
+PARALLEL_REGULATORY_ACTION_OR_LOCAL_PROSECUTOR - an action filed by civil enforcement authorities or a state or local prosecutor arising from the same conduct
+PRE_AGREEMENT_COMPLIANCE - did prosecutors credit compliance measures adopted by the firm prior to settling with prosecutors.
+PRE_AGREEMENT_COMPLIANCE_DESCRIPTION - description of pre-agreement compliance measures that the firm undertook
+PRIVACY_WAIVER - did the company waive attorney client privilege or confidential communications in its agreement with prosecutors
+REG_AGENCY - was a civil administrative agency involved in the resolution of the enforcement actions involving the same conduct
+REGULATORY_DISGORGEMENT_RESTITUTION_FORFEITURE - payments imposed by civil enforcers as disgorgement, or return of net proceeds from a crime, or a civil forfeiture of amounts related to a crime
+REGULATORY_FINE - amount of penalty imposed by civil enforcers
+STATEMENT_OF_FACTS - did the agreement include a statement describing the events and activities leading to the criminal prosecution
+SWISS_BANK_PROGRAM - Denotes whether or not entity was part of the Swiss Bank Program (see: Dept. of Justice - Swiss Bank Program)
+TOTAL_REGULATORY - the total payment to civil enforcers by the firm
+UNRELATED_TERMS - did any terms in the agreement not relate to the criminal activity itself or a penalty for engaging in that activity, but instead imposed an additional consequences on the firm not designed to remediate that criminal activity or compensation victims
