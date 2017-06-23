@@ -1,0 +1,177 @@
+id,company,first_name,last_name,nationality_code
+0,Freelance film critic,Simon,Abrams,US
+1,Freelance film critic,Sam,Adams,US
+2,Freelance film critic,Thelma,Adams,US
+3,Rolling Stone Mexico,Arturo,Aguilar,MX
+4,BBC Culture,Matthew,Anderson,GB
+5,The Wrap,Tim,Appelo,US
+6,Film historian,Adriano,Aprà,IT
+7,Nerdist,Michael,Arbeiter,US
+8,Dipnot TV,Ali,Arikan,TR
+9,The Village Voice,Michael,Atkinson,US
+10,Freelance film critic,Ana Maria,Bahiana,BR
+11,Toronto Film Festival,Cameron,Bailey,CA
+12,BBC Culture,Lindsay,Baker,GB
+13,Freelance film critic,Miriam,Bale,US
+14,BBC Culture,Nicholas,Barber,GB
+15,La Nacion,Diego,Batlle,AR
+16,Positif,NT,Binh,FR
+17,University of Glasgow,Lizelle,Bisschoff,GB
+18,BBC Culture,Christian,Blauvelt,US
+19,African Film Festival Inc,Mahen,Bonetti,US
+20,Spiegel Online,Andreas,Borcholte,DE
+21,Freelance film critic,Utpal,Borpujari,IN
+22,The New Yorker,Richard,Brody,US
+23,Jerusalem Post,Hannah,Brown,IL
+24,The Guardian/BBC Culture,Luke,Buckmaster,AU
+25,Cinemateca de Cuba,Luciano,Castillo,CU
+26,New York Times Watching,Monica,Castillo,US
+27,El Colombiano,Samuel,Castro,CO
+28,Los Angeles Times,Justin,Chang,US
+29,AfricaFilms.TV,Enrico,Chiesa,SN
+30,Freelance film critic,Cho,Seongyong,KR
+31,The Telegraph,Robbie,Collin,GB
+32,IGN,Scott,Collura,US
+33,Minneapolis Star-Tribune,Colin,Covert,US
+34,Rappler.com,Oggs,Cruz,PH
+35,New York University,Ken,Dancyger,US
+36,Fandango,Erik,Davis,US
+37,Variety,Peter,Debruge,US
+38,La Libre Belgique,Fernand,Denis,BE
+39,University of London,Lindiwe,Dovey,GB
+40,TheWrap,Alonso,Duralde,US
+41,The Village Voice,Bilge,Ebiri,US
+42,IndieWire,David,Ehrlich,US
+43,IndieWire,Kate,Erbland,US
+44,Cinemateca de Cuba,Mario,Espinosa,CU
+45,Freelance film critic,Joseph,Fahim,EG
+46,Birth.Movies.Death.,Devin,Faraci,US
+47,Rolling Stone,David,Fear,US
+48,The Hollywood Reporter,Scott,Feinberg,US
+49,La Nacion,Javier Porta,Fouz,AR
+50,Freelance film critic,Kenji,Fujishima,US
+51,El Mercurio,Ernesto,Garratt,CL
+52,Variety,Steven,Gaydos,US
+53,Washington City Paper,Noah,Gittell,US
+54,Variety,Owen,Gleiberman,US
+55,Slant Magazine,Ed,Gonzalez,US
+56,El Tiempo,Juan Carlos,González,CO
+57,Berlin Critics’ Week,Carmen,Gray,DE
+58,Screen International,Tim,Grierson,US
+59,L'Avant-Scène Cinéma,Jean-Philippe,Guerand,FR
+60,France Culture,Antoine,Guillot,FR
+61,University of Chicago,Tom,Gunning,US
+62,The Indian Express,Shubhra,Gupta,IN
+63,An-Nahar Newspaper,Hauvick,Habechian,LB
+64,Slashfilm,Angie,Han,US
+65,Slate,Aisha,Harris,US
+66,Freelance film critic,Tina,Hassannia,CA
+67,University of Tokyo,Shiguehiko,Hasumi,JP
+68,Freelance film critic,Katarina,Hedrén,ZA
+69,Freelance film critic,Jordan,Hoffman,US
+70,Vanity Fair,Michael,Hogan,US
+71,The Washington Post,Ann,Hornaday,US
+72,The Toronto Star,Peter,Howell,CA
+73,Columbia University,Annette,Insdorf,US
+74,Indian Institute of Technology,Aysha,Iqbal,IN
+75,Freelance film critic,Zhanna,Issabayeva,KZ
+76,Metro,Larushka,Ivan-Zadeh,GB
+77,Sight & Sound,Nick,James,GB
+78,Little White Lies,David,Jenkins,GB
+79,Film Comment,Kent,Jones,US
+80,Revista Semana,Manuel,Kalmanovitz,CO
+81,Der Standard,Dominik,Kamalzadeh,AT
+82,Freelance,Dave,Karger,US
+83,Cinema Akil,Butheina,Kazim,AE
+84,Freelance,Glenn,Kenny,US
+85,Frankfurter Allgemeine Zeitung,Andreas,Kilb,DE
+86,Haaretz,Uri,Klein,IL
+87,IndieWire,Eric,Kohn,US
+88,Slate,Dan,Kois,US
+89,The Film Society of Lincoln Center,Michael,Koresky,US
+90,Freelance film critic,Tomris,Laffly,US
+91,BBC Culture,Rebecca,Laurence,GB
+92,Vanity Fair,Richard,Lawson,US
+93,Variety,Maggie,Lee,HK
+94,Front Row Filmed Entertainment,Anastasiya,Lelyukh,AE
+95,Variety/The Observer,Guy,Lodge,GB
+96,Cuban Film Press Association,Mario Naito,López,CU
+97,Frankfurter Allgemeine Zeitung,Verena,Lueken,DE
+98,BBC Culture,Fiona,Macdonald,GB
+99,Freelance film critic,Laya,Maheshwari,IN
+100,AfricAvenir.org,Hans-Christian,Mahnke,NA
+101,Turner Classic Movies,Ben,Mankiewicz,US
+102,Freelance film critic,Calum,Marsh,CA
+103,Screen International,Lee,Marshall,IT
+104,Lola Magazine,Adrian,Martin,AU
+105,El Mercurio,Antonio,Martínez,CL
+106,The Hollywood Reporter,Todd,McCarthy,US
+107,Hunter College,Joe,McElhaney,US
+108,HitFix,Drew,McWeeny,US
+109,Sight & Sound/Criterion,Kim,Morgan,US
+110,The Times,Kate,Muir,GB
+111,Entertainment Weekly,Chris,Nashawaty,US
+112,The New York Post/Film Comment,Farran Smith,Nehme,US
+113,WOR-710AM New York,Joe,Neumaier,US
+114,The National,Chris,Newbould,AE
+115,MTV News,Amy,Nicholson,US
+116,Freelance,Ong Soh,Chin,SG
+117,Neue Zürcher Zeitung,Susanne,Ostwald,CH
+118,Thrillist,Matthew,Patches,US
+119,Tampa Bay Times,Steve,Persall,US
+120,Chicago Tribune,Michael,Phillips,US
+121,Uproxx,Keith,Phipps,US
+122,Der Spiegel,Hannah,Pilarczyk,DE
+123,Marianne,Agnès C,Poirier,FR
+124,Freelance film critic,Claudia,Puig,US
+125,Independent University,Zakir Hossein,Raju,BD
+126,La Habana International Festival of New Latin American Cinema,Alberto Ramos,Ruiz,CU
+127,The Film Stage,Jordan,Raup,US
+128,Le Monde,Isabelle,Regnier,FR
+129,El Tiempo,Mauricio,Reina,CO
+130,Salt Lake City Weekly,Scott,Renshaw,US
+131,Vanity Fair,Katey,Rich,US
+132,Freelance film critic,Carrie,Rickey,US
+133,BBC Culture,Sam,Rigby,GB
+134,Cinemateca de Cuba,Antonio Mazón,Robau,CU
+135,The Daily Telegraph,Tim,Robey,GB
+136,The Verge,Tasha,Robinson,US
+137,The Miami Herald,Rene,Rodriguez,US
+138,Freelance film critic,Jonathan,Romney,GB
+139,The Washington Post,Alyssa,Rosenberg,US
+140,The Huffington Post,E Nina,Rothe,IT
+141,Time Out New York,Joshua,Rothkopf,US
+142,Asharq Al-Awsat,Mohammed,Rouda,LB
+143,Uproxx,Mike,Ryan,US
+144,The Indian Express,Alaka,Sahani,IN
+145,Independent curator/film programmer,Rasha,Salti,LB
+146,Freelance film critic,Eric,Sasono,ID
+147,Variety,Nick,Schager,US
+148,Freelance film critic,Missy,Schwartz,US
+149,New York Magazine,Matt Zoller,Seitz,US
+150,Walla,Avner,Shavit,IL
+151,The Guardian,Catherine,Shoard,GB
+152,Time Out Tel Aviv,Yael,Shuv,IL
+153,ScreenCrush,Matt,Singer,US
+154,Freelance film critic,Justine A,Smith,CA
+155,Freelance film critic,Eric D,Snider,US
+156,Seoul Institute of the Arts,Soh Jae,Yong,KR
+157,Letras Libres Magazine,Fernanda,Solórzano,MX
+158,The Australian,David,Stratton,AU
+159,International Cinephile Society,Cédric,Succivalli,IT
+160,Star,Alin,Tasciyan,TR
+161,The Yale Review,Charles,Taylor,US
+162,NPR.org,Ella,Taylor,US
+163,Nanyang Techological University,Stephen,Teo,SG
+164,University of Wisconsin-Madison,Kristin,Thompson,US
+165,Freelance film critic,Scott,Tobias,US
+166,Rolling Stone,Peter,Travers,US
+167,USA Today,Brian,Truitt,US
+168,Freelance film critic,Rahul,Verma,GB
+169,Taipei Golden Horse Film Festival,Wen,Tien-Hsiang,TW
+170,Freelance film critic,Stephen,Whitty,US
+171,Christianity Today,Alissa,Wilkinson,US
+172,Fairfax Media,Jake,Wilson,AU
+173,Time Magazine,Stephanie,Zacharek,US
+174,Doha Film Institute,Chadi,Zeneddine,QA
+175,China Daily,Raymond,Zhou,CN

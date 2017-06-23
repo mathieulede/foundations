@@ -1,0 +1,5 @@
+1. Scrap the BBC page using a simple request
+
+2. Put the information in python and create the CSVs to be imported in PSQL
+
+3. Import the CSVs into the tables

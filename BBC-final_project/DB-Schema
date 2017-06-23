@@ -1,0 +1,35 @@
+Critic: person who makes reviews
+Review: rank given to a film by a critic
+Director: person who make a film alone or with other directors
+Film: Picture made by one or several directors and reviewed by one or several critics
+Direction: attribution of directors for each film
+
+Critics
+- ID
+- First Name
+- Last Name
+- Company
+- Nationality
+
+Directors
+- ID
+- First Name
+- Last Name
+- Nationality
+
+Films
+- ID
+- Release date
+- Title                 
+- Budget
+- Incomes
+
+Reviews
+- ID
+- Critic ID
+- Film ID
+- Rank
+
+Directions
+- Film ID
+- Director ID

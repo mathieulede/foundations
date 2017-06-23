@@ -1,0 +1,56 @@
+CREATE TABLE critics (
+    id                  serial PRIMARY KEY,
+    company             varchar(120),
+    first_name          varchar(40) NOT NULL,
+    last_name           varchar(40),
+    nationality_code    char(2)
+);
+
+copy critics from '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/critics.csv' delimiter ','csv;
+
+copy critics to '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/critics-psql.csv' delimiter ',' csv header;
+
+
+CREATE TABLE films (
+    id                  serial PRIMARY KEY,
+    release_year        char(4),
+    title               varchar(120) NOT NULL
+);
+
+copy films from '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/films.csv' delimiter ','csv;
+
+copy films to '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/films-psql.csv' delimiter ',' csv header;
+
+
+CREATE TABLE directors (
+    id                  serial PRIMARY KEY,
+    first_name          varchar(40) NOT NULL,
+    last_name           varchar(40)
+);
+
+copy directors from '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/directors.csv' delimiter ','csv;
+
+copy directors to '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/directors-psql.csv' delimiter ',' csv header;
+
+
+CREATE TABLE reviews (
+    id                  serial PRIMARY KEY,
+    critic_id           char(3),
+    film_id             char(3),
+    rank                char(2)
+);
+
+copy reviews from '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/reviews.csv' delimiter ','csv;
+
+copy reviews to '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/reviews-psql.csv' delimiter ',' csv header;
+
+
+CREATE TABLE directions (
+    id                  serial PRIMARY KEY,
+    director_id         char(3),
+    film_id             char(3)
+);
+
+copy directions from '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/directions.csv' delimiter ','csv;
+
+copy directions to '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/directions-psql.csv' delimiter ',' csv header;
