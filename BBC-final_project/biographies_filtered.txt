@@ -1,0 +1,355 @@
+last_name,first_name,birthdate,nationality
+Abu-Assad,Hany,11 October 1961,Israel
+Adamson,Andrew,1 December 1966,New Zealand
+Ade,Maren,12 December 1976,Germany
+Aduaka,Newton I.,1966,Nigeria
+Akerman,Chantal,6 June 1950,Belgium
+Akin,Fatih,25 August 1973,West Germany
+Akomfrah,John,1957,UK
+Alfredson,Tomas,1 April 1965,Sweden
+Allen,Woody,1 December 1935,USA
+Altman,Robert,20 February 1925,USA
+Altman,Robert Reed,22 December 1959,USA
+Andersen,Thom,1943,USA
+Anderson,Laurie,5 June 1947,USA
+Anderson,Laurie Halse,23 October 1961,USA
+Anderson,Paul Thomas,26 June 1970,USA
+Anderson,Wes,1 May 1969,USA
+Anderson,Wesley,23 December 1896,USA
+Andersson,Roy,31 March 1943,Sweden
+Antonioni,Michelangelo,29 September 1912,Italy
+Arnold,Andrea,5 April 1961,UK
+Aronofsky,Darren,12 February 1969,USA
+Arteta,Miguel,1965,Puerto Rico
+Arthus-Bertrand,Yann,13 March 1946,France
+Asante,Amma,1969,UK
+Assayas,Olivier,25 January 1955,France
+Audiard,Jacques,30 April 1952,France
+Bahrani,Ramin,20 March 1975,USA
+Baker,Sean,1989,UK
+Banerjee,Dibakar,21 June 1969,India
+Baumbach,Noah,3 September 1969,USA
+Bay,Michael,17 February 1965,USA
+Beauvois,Xavier,20 March 1967,France
+Becker,Wolfgang,15 May 1910,Germany
+Becker,Wolfgang,22 June 1954,Germany
+Bellocchio,Marco,9 November 1939,Italy
+Benigni,Roberto,27 October 1952,Italy
+Benvenuti,Paolo,30 January 1946,Italy
+Berger,Pablo,1963,Spain
+Bergman,Ingmar,14 July 1918,Sweden
+Berman,Shari Springer,13 July 1963,USA
+Bier,Susanne,15 April 1960,Denmark
+Bigelow,Kathryn,27 November 1951,USA
+Bird,Brad,24 September 1957,USA
+Black,Shane,16 December 1961,USA
+Blair,Wayne,28 November 1971,Australia
+Blomkamp,Neill,17 September 1979,South Africa
+Bouchareb,Rachid,1 September 1959,France
+Breillat,Catherine,13 July 1948,France
+Brisseau,Jean-Claude,17 July 1944,France
+Buck,Chris,24 February 1958,USA
+Burnett,Charles,13 April 1944,USA
+Cameron,James,16 August 1954,Canada
+Cameron,James,23 March 1914,USA
+Cameron,James,17 June 1911,UK
+Cameron,James,29 April 1930,UK
+Campbell,Martin,24 October 1943,New Zealand
+Campion,Jane,30 April 1954,New Zealand
+Cantet,Laurent,15 June 1961,France
+Carax,Leos,22 November 1960,France
+Carney,John,20 April 1964,USA
+Carney,John,1972,Ireland
+Carney,John J.,25 August 1940,UK
+Carruth,Shane,1972,USA
+Cassavetes,Nick,21 May 1959,USA
+Cavalier,Alain,14 September 1931,France
+Cedar,Joseph,31 August 1968,USA
+Ceylan,Nuri Bilge,26 January 1959,Turkey
+Chadha,Gurinder,10 January 1960,Kenya
+Charles,Larry,1 December 1956,USA
+Chazelle,Damien,19 January 1985,USA
+Chow,Stephen,22 June 1962,Hong Kong
+Cianfrance,Derek,23 January 1974,USA
+Clooney,George,6 May 1961,USA
+Coen,Ethan,21 September 1957,USA
+Coen,Joel,29 November 1954,USA
+Coogler,Ryan,23 May 1986,USA
+Coppola,Francis Ford,7 April 1939,USA
+Coppola,Sofia,14 May 1971,USA
+Copti,Scandar,1975,Israel
+Cornish,Joe,20 December 1968,UK
+Costa,Pedro,19 August 1941,Spain
+Costa,Pedro,30 December 1958,Portugal
+Costner,Kevin,18 January 1955,USA
+Cretton,Destin Daniel,23 November 1978,USA
+Cronenberg,David,15 March 1943,Canada
+Crowe,Cameron,13 July 1957,USA
+Crowley,John,1 December 1942,USA
+Crowley,John,19 August 1969,Ireland
+Crowley,John,7 April 1967,USA
+Curtis,Adam,26 May 1955,UK
+Curtis,Richard,8 November 1956,New Zealand
+Daldry,Stephen,2 May 1960,UK
+Dardenne,Jean-Pierre,21 April 1951,Belgium
+Dardenne,Luc,10 March 1954,Belgium
+Davidi,Guy,9 July 1978,Israel
+Davies,Terence,10 November 1945,UK
+DeKnight,Steven S.,Millville,USA
+Denis,Claire,21 April 1946,France
+Desplechin,Arnaud,31 October 1960,France
+Diaz,Lav,30 December 1958,Philippines
+Docter,Pete,9 October 1968,USA
+Dolan,Xavier,20 March 1989,Canada
+Dominik,Andrew,7 October 1967,New Zealand
+DuVernay,Ava,24 August 1972,USA
+Eastwood,Clint,31 May 1930,USA
+Edel,Uli,11 April 1947,Germany
+Edwards,Gareth,1965,UK
+Edwards,Gareth,12 July 1947,UK
+Elkabetz,Ronit,27 November 1964,Israel
+Farhadi,Asghar,7 May 1972,Iran
+Fedorchenko,Aleksey,29 September 1966,Russia
+Feig,Paul,17 September 1962,USA
+Fincher,David,28 August 1962,USA
+Fitoussi,Jean-Charles,1 June 1970,France
+Folman,Ari,17 December 1962,Israel
+Ford,Tom,19 March 1932,USA
+Ford,Tom,27 August 1961,USA
+Ford,Tom,17 August 1983,UK
+Fox,Eytan,21 August 1964,USA
+Frammartino,Michelangelo,1968,Italy
+France,David,30 June 1948,UK
+Frears,Stephen,20 June 1941,UK
+Fukasaku,Kinji,3 July 1930,Japan
+Fukunaga,Cary Joji,10 July 1977,USA
+Garland,Alex,26 May 1970,UK
+Garrel,Philippe,6 April 1948,France
+Gehr,Ernie,20 July 1943,USA
+Geiser,Janie,1957,USA
+George,Terry,20 December 1952,UK
+German,Aleksey,20 July 1938,Russia
+German,Aleksey,4 September 1976,Russia
+Geyrhalter,Nikolaus,1972,Austria
+Ghobadi,Bahman,1 February 1969,Iran
+Gianikian,Yervant,1942,Italy
+Gibson,Mel,3 January 1956,USA
+Gilroy,Dan,1959,USA
+Gilroy,Tony,11 September 1956,USA
+Glazer,Jonathan,26 March 1965,UK
+Godard,Jean-Luc,3 December 1930,France
+Gomes,Marcelo,28 October 1963,Brazil
+Gomes,Miguel,1972,Portugal
+Gomes,Miguel Andrade,21 February 1972,Portugal
+Gomis,Alain,1972,Senegal
+Gondry,Michel,8 May 1963,France
+Gowariker,Ashutosh,15 February 1964,India
+Granik,Debra,1963,USA
+Gray,James,14 April 1969,USA
+Gray,James Ian,25 September 1985,UK
+Greene,Robert,25 May 1976,USA
+Greengrass,Paul,13 August 1955,UK
+Guadagnino,Luca,1971,Italy
+Guest,Christopher,5 February 1948,USA
+Guest,Christopher,29 September 1975,Canada
+Guiraudie,Alain,15 July 1964,France
+Haneke,Michael,23 March 1942,Germany
+Haroun,Mahamat-Saleh,1961,Chad
+Harron,Mary,12 January 1953,Canada
+Hausner,Jessica,6 October 1972,Austria
+Haynes,Todd,2 January 1961,USA
+Hazanavicius,Michel,29 March 1967,France
+Hertzfeldt,Don,1 August 1976,USA
+Herzog,Werner,5 September 1942,Germany
+Hogg,Joanna,20 March 1960,UK
+Holland,Agnieszka,28 November 1948,Poland
+Honkasalo,Pirjo,1947,Finland
+Hooper,Tom,5 October 1972,UK
+Hunt,Courtney,1964,USA
+Jacir,Annemarie,17 January 1974,Palestine
+Jackson,Peter,31 October 1961,New Zealand
+Jackson,Peter,30 December 1978,USA
+Jacobs,Ken,25 May 1933,USA
+Jarmusch,Jim,22 January 1953,USA
+Jenkins,Patty,24 July 1971,USA
+Jeunet,Jean-Pierre,3 September 1953,France
+Johnson,Duke,20 March 1979,USA
+Johnson,Rian,17 December 1973,USA
+Jones,Duncan,30 May 1971,UK
+Jones,Tommy Lee,15 September 1946,USA
+Jonze,Spike,22 October 1969,USA
+Judge,Mike,17 October 1962,Ecuador
+July,Miranda,15 February 1974,USA
+Kahn,Joseph,12 October 1972,USA
+Kapadia,Asif,1972,UK
+Kapoor,Rajat,11 February 1961,India
+Kashyap,Anurag,10 September 1972,India
+Kaufman,Charlie,19 November 1958,USA
+Kaufman,Philip,23 October 1936,USA
+Kawase,Naomi,30 May 1969,Japan
+Kechiche,Abdellatif,7 December 1960,Tunisia
+Kelly,Richard,28 March 1975,USA
+Khoo,Eric,27 March 1965,Singapore
+Kiarostami,Abbas,22 June 1940,Iran
+Kitano,Takeshi,18 January 1947,Japan
+Knight,Steven,1959,UK
+Kon,Satoshi,12 October 1963,Japan
+Koreeda,Hirokazu,6 June 1962,Japan
+Korine,Harmony,4 January 1973,USA
+Kurosawa,Kiyoshi,19 July 1955,Japan
+Labaki,Nadine,18 February 1974,Lebanon
+Lanners,Bouli,20 May 1965,Belgium
+Lanthimos,Yorgos,1973,Greece
+Lanzmann,Claude,27 November 1925,France
+Lee,Ang,23 October 1954,Taiwan
+Lee,Jennifer,22 October 1971,USA
+Lee,Spike,20 March 1957,USA
+Leigh,Mike,20 February 1943,UK
+Linklater,Richard,30 July 1960,USA
+Loach,Ken,17 June 1936,UK
+Lonergan,Kenneth,16 October 1962,USA
+Lucas,George,14 May 1944,USA
+Lucas,Georges,3 March 1927,Colombia
+Luhrmann,Baz,17 September 1962,Australia
+Lumet,Sidney,25 June 1924,USA
+Maddin,Guy,28 February 1956,Canada
+Mak,Alan,1 January 1965,Hong Kong
+Malick,Terrence,30 November 1943,USA
+Mann,Michael,5 February 1943,USA
+Mann,Michael,29 July 1986,USA
+Mann,Michael,18 January 1983,UK
+Marcello,Pietro,2 July 1976,Italy
+Marsh,James,30 April 1963,UK
+Marshall,Rob,17 October 1960,USA
+Marshall,Robert,21 June 1863,UK
+Marshall,Robert Neal,30 May 1960,USA
+Martel,Lucrecia,14 December 1966,Argentina
+McCarthy,Tom,7 June 1966,USA
+McGrath,Tom,7 August 1964,USA
+McKay,Adam,17 April 1968,USA
+McQueen,Steve,24 March 1930,USA
+McQueen,Steve,9 October 1969,UK
+McQueen,Steven R.,13 July 1988,USA
+Meadows,Shane,26 December 1972,UK
+Meirelles,Fernando,9 November 1955,Brazil
+Mekas,Jonas,24 December 1922,Lithuania
+Mendes,Sam,1 August 1965,UK
+Miller,George,3 March 1945,Australia
+Mills,Mike,17 December 1958,USA
+Mills,Mike,1966,USA
+Mitchell,John Cameron,21 April 1963,USA
+Miyazaki,Hayao,5 January 1941,Japan
+Mohammed,Ossama,21 March 1954,Syria
+Moodysson,Lukas,17 January 1969,Sweden
+Moore,Michael,23 April 1954,USA
+Moore,Tomm,7 January 1977,UK
+Moore,Tommie,2 December 1917,USA
+Moretti,Nanni,19 August 1953,Italy
+Morley,Carol,Ontario,Canada
+Morley,Carol,14 January 1966,UK
+Morris,Christopher,5 September 1965,UK
+Morris,Christopher,23 July 1960,UK
+Mottola,Greg,11 July 1964,USA
+Motwane,Vikramaditya,6 December 1976,India
+Mullan,Peter,2 November 1959,UK
+Mungiu,Cristian,27 April 1968,Romania
+Nair,Mira,15 October 1957,India
+Nesher,Avi,13 December 1953,Israel
+Neveldine,Mark,11 May 1973,USA
+Nichols,Jeff,7 December 1978,USA
+Nolan,Christopher,30 July 1970,UK
+Olmi,Ermanno,24 July 1931,Italy
+Onwurah,Ngozi,1964,Nigeria
+Oppenheimer,Joshua,23 September 1974,USA
+Paley,Nina,3 May 1968,USA
+Panahi,Jafar,11 July 1960,Iran
+Parker,Trey,19 October 1969,USA
+Parker,Trey,30 May 1972,USA
+Paronnaud,Vincent,1970,France
+Payne,Alexander,10 February 1961,USA
+Peck,Raoul,1953,Haiti
+Petzold,Christian,14 September 1960,Germany
+Piavoli,Franco,21 June 1933,Italy
+Pinkava,Jan,21 June 1963,Czech Republic
+Polanski,Roman,18 August 1933,France
+Polley,Sarah,8 January 1979,Canada
+Porumboiu,Corneliu,14 September 1975,Romania
+Prince-Bythewood,Gina,10 June 1969,USA
+Puiu,Cristi,3 April 1967,Romania
+Pulcini,Robert,24 August 1964,USA
+Raimi,Sam,23 October 1959,USA
+Ramsay,Lynne,5 December 1969,UK
+Rasoulof,Mohammad,1973,Iran
+Reitman,Jason,19 October 1977,Canada
+Resnais,Alain,3 June 1922,France
+Reygadas,Carlos,10 October 1971,Mexico
+Riklis,Eran,2 October 1954,Israel
+Rivette,Jacques,1 March 1928,France
+Rogen,Seth,15 April 1982,Canada
+Ruiz,Raoul,25 July 1941,Chile
+Russell,David O.,20 August 1958,USA
+Russo,Anthony,3 February 1970,USA
+Russo,Joe,Abbeville,USA
+Russo,Joe,8 July 1971,USA
+Russo,Joey,6 August 1953,USA
+Safdie,Joshua,3 April 1984,USA
+Satrapi,Marjane,22 November 1969,Iran
+Saura,Carlos,4 January 1932,Spain
+Schmitz,Oliver,1960,South Africa
+Schnabel,Julian,26 October 1951,USA
+Scorsese,Martin,17 November 1942,USA
+Scott,Ridley,30 November 1937,UK
+Scott,Tony,21 June 1944,UK
+Scott,Tony,30 March 1922,UK
+Scott,Tony,23 September 1923,USA
+Scott,Tony,17 June 1921,USA
+Seidl,Ulrich,24 November 1952,Austria
+Serra,Albert,1975,Spain
+Shani,Yaron,1973,Israel
+Silverman,David,15 March 1957,USA
+Sissako,Abderrahmane,13 October 1961,Mauritania
+Soderbergh,Steven,14 January 1963,USA
+Sokurov,Aleksandr,14 June 1951,Russia
+Solomon,Phil,3 January 1954,USA
+Sono,Sion,1961,Japan
+Sorrentino,Paolo,31 May 1970,Italy
+Spielberg,Steven,18 December 1946,USA
+Stanton,Andrew,3 December 1965,USA
+Stiller,Ben,30 November 1965,USA
+Stillman,Whit,25 January 1952,USA
+Straub,Jean-Marie,8 January 1933,France
+Suleiman,Elia,28 July 1960,Israel
+Talbott Kelly,Richard,20 August 1896,UK
+Tan,Royston,5 October 1976,Singapore
+Tanovic,Danis,20 February 1969,Yugoslavia
+Tarantino,Quentin,27 March 1963,USA
+Taylor,Brian,19 November 1923,UK
+Taylor,Brian N.,1973,USA
+Taylor,Brian Robert,14 February 1956,USA
+To,Johnnie,22 April 1955,Hong Kong
+Tong,Kelvin,,Singapore
+Tscherkassky,Peter,1958,Austria
+Unkrich,Lee,8 August 1967,USA
+Vernon,Conrad,11 July 1968,USA
+Villeneuve,Denis,3 October 1967,Canada
+Vinterberg,Thomas,19 May 1969,Denmark
+Wain,David,1 August 1969,USA
+Wajda,Andrzej,6 March 1926,Poland
+Watkins,Peter,29 October 1935,UK
+Weerasethakul,Apichatpong,16 July 1970,Thailand
+Weir,Peter,21 August 1944,Australia
+Wheatley,Ben,1972,UK
+Whedon,Joss,23 June 1964,USA
+Wilkerson,Travis,1969,USA
+Winterbottom,Michael,29 March 1961,UK
+Wiseman,Frederick,1 January 1930,USA
+Wright,Edgar,18 April 1974,UK
+Yang,Edward,6 November 1947,China
+Zahler,S. Craig,1973,USA
+Zeitlin,Benh,14 October 1982,USA
+Zemeckis,Robert,14 May 1952,USA
+Zeze,Takahisa,1960,Japan
+Zulawski,Andrzej,22 November 1940,Ukraine
+Zvyagintsev,Andrey,6 February 1964,Russia
+Zwigoff,Terry,18 May 1949,USA
+Lynch,David,20 January 1946,USA

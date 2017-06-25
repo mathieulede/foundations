@@ -35,8 +35,8 @@ copy directors to '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-
 
 CREATE TABLE reviews (
     id                  serial PRIMARY KEY,
-    critic_id           char(3),
-    film_id             char(3),
+    critic_id           int,
+    film_id             int,
     rank                char(2)
 );
 
@@ -47,10 +47,21 @@ copy reviews to '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-fi
 
 CREATE TABLE directions (
     id                  serial PRIMARY KEY,
-    director_id         char(3),
-    film_id             char(3)
+    director_id         int,
+    film_id             int
 );
 
 copy directions from '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/directions.csv' delimiter ','csv;
 
 copy directions to '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/directions-psql.csv' delimiter ',' csv header;
+
+
+CREATE TABLE countries (
+    id                  serial PRIMARY KEY,
+    common_name         varchar(120) NOT NULL,
+    code                char(2)
+);
+
+copy countries from '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/countries.csv' delimiter ','csv;
+
+copy countries to '/Users/mathieurudaz/Desktop/LEDE/foundations/foundations/BBC-final_project/countries-psql.csv' delimiter ',' csv header;

@@ -38,7 +38,7 @@ id,first_name,last_name
 36,Andrea,Arnold
 37,Richard,Linklater
 38,Pablo,Larraín
-39,Joel,
+39,Joel,Coen
 40,Ethan,Coen
 41,Asghar,Farhadi
 42,Andrew,Stanton
@@ -80,7 +80,7 @@ id,first_name,last_name
 78,Fernando,Meirelles
 79,Kátia,Lund
 80,Brad,Bird
-81,Alejandro González,Iñárritu
+81,Alejandro,González Iñárritu
 82,Ang,Lee
 83,Steve,McQueen
 84,Xavier,Dolan
@@ -134,7 +134,7 @@ id,first_name,last_name
 132,Andrew,Dosunmu
 133,Khalo,Matabane
 134,Amma,Asante
-135,Jean-Pierre,
+135,Jean-Pierre,Dardenne
 136,Luc,Dardenne
 137,Gaspar,Noé
 138,Mira,Nair
@@ -142,7 +142,7 @@ id,first_name,last_name
 140,Raam,Reddy
 141,Danis,Tanovic
 142,Josephine,Decker
-143,Josh,
+143,Josh,Safdie
 144,Benny,Safdie
 145,Miranda,July
 146,Sara,Fattahi
@@ -426,7 +426,7 @@ id,first_name,last_name
 424,Laurent,Cantet
 425,Agnieszka,Holland
 426,Kim,Jee-woon
-427,Anthony,
+427,Anthony,Russo
 428,Joe,Russo
 429,Richard,Curtis
 430,Rob,Marshall

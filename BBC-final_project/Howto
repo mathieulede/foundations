@@ -3,3 +3,32 @@
 2. Put the information in python and create the CSVs to be imported in PSQL
 
 3. Import the CSVs into the tables
+
+http://www.imdb.com/interfaces
+ftp://ftp.fu-berlin.de/pub/misc/movies/database/
+biographies.list
+grep -h 'NM:\|---\|DB:' biographies.list > biographies_refined.txt
+
+LC_CTYPE=C sed 's/^NM\: //; s/^DB\: //' biographies_refined.txt > biographies_refined_b.txt
+
+LC_CTYPE=C sed 's/, /,/g' biographies_refined_b.txt > biographies_refined.txt
+
+grep -f directors_refined.txt biographies_refined.txt > biographies_filtered.txt
+
+^([^,]+,.[^,]+,.[^,]+).*(,(\w+?\w+))$
+
+SELECT nationality_code, count(id) 
+FROM critics 
+GROUP BY nationality_code 
+ORDER BY count(id) DESC;
+
+
+All the films directed by more than two people
+
+SELECT
+    films.title, 
+    count(directions.film_id)
+FROM directions
+JOIN films ON films.id = directions.film_id
+GROUP BY films.title
+HAVING COUNT(directions.film_id) > 2;

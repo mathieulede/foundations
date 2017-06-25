@@ -1,0 +1,6 @@
+Arteta,Miguel,1965,Puerto Rico
+Lynch,David,20 January 1946,USA
+Pinkava,Jan,21 June 1963,Czech Republic
+Safdie,Joshua,3 April 1984,USA
+Schmitz,Oliver,1960,South Africa
+Solomon,Phil,3 January 1954,USA
