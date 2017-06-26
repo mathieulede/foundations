@@ -1,13 +1,8 @@
-Abrams,J. J.
-Almodóvar,Pedro
+last_name,first_name
+Abou Nowar,Naji
 Alverson,Rick
-Amin,Shimit
 Amirpour,Ana Lily
-Angelis,Marco De
-Arteta,Miguel
-Aïnouz,Karim
 Barnard,Clio
-Bayona,J. A.
 Bhardwaj,Vishal
 Bielinsky,Fabián
 Bing,Wang
@@ -17,21 +12,21 @@ Campanella,Juan José
 Castaing-Taylor,Lucien
 Chan-wook,Park
 Chang-dong,Lee
-Cuarón,Alfonso
 Darnell,Eric
+De Angelis,Marco
 Decker,Josephine
+Del Toro,Guillermo
 Delbono,Pippo
 Desai,Rehad
 Dhulia,Tigmanshu
+Di Trapani,Antonio
 Diab,Mohamed
-Donnersmarck,Florian Henckel von
 Dosunmu,Andrew
 El-Tahri,Jihan
 Elkabetz,Shlomi
 Erice,Víctor
 Faccini,Luigi M.
 Fattahi,Sara
-Filho,Kleber Mendonça
 Fowler,Luke
 Gadjigo,Samba
 Gaviria,Víctor
@@ -67,10 +62,10 @@ Lau,Andrew
 Layton,Bart
 Leth,Jørgen
 Llinás,Mariano
-Lucchi,Angela Ricci
 Lund,Kátia
 Marclay,Christian
 Matabane,Khalo
+Mendonça Filho,Kleber
 Michôd,David
 Ming-liang,Tsai
 Mirtahmasb,Mojtaba
@@ -78,45 +73,30 @@ Mishra,Sudhir
 Moreh,Dror
 Nemes,László
 Neo,Jack
-Nowar,Naji Abou
 Noé,Gaspar
-Oliveira,Manoel de
 Ozon,François
-Palma,Brian De
 Paravel,Verena
 Pawlikowski,Paweł
 Pichler,Gabriela
 Pin,Tan Pin
-Pinkava,Jan
 Périot,Jean-Gabriel
 Rajagopal,K.
 Reddy,Raam
-Refn,Nicolas Winding
 Reichardt,Kelly
 Riley,Stevan
 Rivers,Ben
 Rodrigues,João Pedro
 Rohmer,Éric
-Safdie,Josh
-Safdie,Benny
 Sang-soo,Hong
-Sant,Gus Van
-Schmitz,Oliver
 Sciamma,Céline
 Sembène,Ousmane
 Silverman,Jason
-Singer,André
 Soueid,Mohamed
 Spray,Stephanie
 Szifrón,Damián
 Tamhane,Chaitanya
-Tarr,Béla
 Thornton,Warwick
-Toro,Guillermo Del
-Trapani,Antonio Di
 Tremaine,Jeff
-Trier,Lars von
-Téno,Jean-Marie
 Vallée,Jean-Marc
 Varda,Agnès
 Velez,Pacho

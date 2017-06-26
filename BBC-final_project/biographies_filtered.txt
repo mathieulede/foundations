@@ -12,10 +12,8 @@ Altman,Robert,20 February 1925,USA
 Altman,Robert Reed,22 December 1959,USA
 Andersen,Thom,1943,USA
 Anderson,Laurie,5 June 1947,USA
-Anderson,Laurie Halse,23 October 1961,USA
 Anderson,Paul Thomas,26 June 1970,USA
 Anderson,Wes,1 May 1969,USA
-Anderson,Wesley,23 December 1896,USA
 Andersson,Roy,31 March 1943,Sweden
 Antonioni,Michelangelo,29 September 1912,Italy
 Arnold,Andrea,5 April 1961,UK
@@ -31,7 +29,6 @@ Banerjee,Dibakar,21 June 1969,India
 Baumbach,Noah,3 September 1969,USA
 Bay,Michael,17 February 1965,USA
 Beauvois,Xavier,20 March 1967,France
-Becker,Wolfgang,15 May 1910,Germany
 Becker,Wolfgang,22 June 1954,Germany
 Bellocchio,Marco,9 November 1939,Italy
 Benigni,Roberto,27 October 1952,Italy
@@ -51,16 +48,11 @@ Brisseau,Jean-Claude,17 July 1944,France
 Buck,Chris,24 February 1958,USA
 Burnett,Charles,13 April 1944,USA
 Cameron,James,16 August 1954,Canada
-Cameron,James,23 March 1914,USA
-Cameron,James,17 June 1911,UK
-Cameron,James,29 April 1930,UK
 Campbell,Martin,24 October 1943,New Zealand
 Campion,Jane,30 April 1954,New Zealand
 Cantet,Laurent,15 June 1961,France
 Carax,Leos,22 November 1960,France
-Carney,John,20 April 1964,USA
 Carney,John,1972,Ireland
-Carney,John J.,25 August 1940,UK
 Carruth,Shane,1972,USA
 Cassavetes,Nick,21 May 1959,USA
 Cavalier,Alain,14 September 1931,France
@@ -79,15 +71,12 @@ Coppola,Francis Ford,7 April 1939,USA
 Coppola,Sofia,14 May 1971,USA
 Copti,Scandar,1975,Israel
 Cornish,Joe,20 December 1968,UK
-Costa,Pedro,19 August 1941,Spain
-Costa,Pedro,30 December 1958,Portugal
+Costa,Pedro,3 March 1959,Portugal
 Costner,Kevin,18 January 1955,USA
 Cretton,Destin Daniel,23 November 1978,USA
 Cronenberg,David,15 March 1943,Canada
 Crowe,Cameron,13 July 1957,USA
-Crowley,John,1 December 1942,USA
 Crowley,John,19 August 1969,Ireland
-Crowley,John,7 April 1967,USA
 Curtis,Adam,26 May 1955,UK
 Curtis,Richard,8 November 1956,New Zealand
 Daldry,Stephen,2 May 1960,UK
@@ -105,8 +94,7 @@ Dominik,Andrew,7 October 1967,New Zealand
 DuVernay,Ava,24 August 1972,USA
 Eastwood,Clint,31 May 1930,USA
 Edel,Uli,11 April 1947,Germany
-Edwards,Gareth,1965,UK
-Edwards,Gareth,12 July 1947,UK
+Edwards,Gareth,1975,UK
 Elkabetz,Ronit,27 November 1964,Israel
 Farhadi,Asghar,7 May 1972,Iran
 Fedorchenko,Aleksey,29 September 1966,Russia
@@ -114,9 +102,7 @@ Feig,Paul,17 September 1962,USA
 Fincher,David,28 August 1962,USA
 Fitoussi,Jean-Charles,1 June 1970,France
 Folman,Ari,17 December 1962,Israel
-Ford,Tom,19 March 1932,USA
 Ford,Tom,27 August 1961,USA
-Ford,Tom,17 August 1983,UK
 Fox,Eytan,21 August 1964,USA
 Frammartino,Michelangelo,1968,Italy
 France,David,30 June 1948,UK
@@ -129,7 +115,6 @@ Gehr,Ernie,20 July 1943,USA
 Geiser,Janie,1957,USA
 George,Terry,20 December 1952,UK
 German,Aleksey,20 July 1938,Russia
-German,Aleksey,4 September 1976,Russia
 Geyrhalter,Nikolaus,1972,Austria
 Ghobadi,Bahman,1 February 1969,Iran
 Gianikian,Yervant,1942,Italy
@@ -209,7 +194,6 @@ Linklater,Richard,30 July 1960,USA
 Loach,Ken,17 June 1936,UK
 Lonergan,Kenneth,16 October 1962,USA
 Lucas,George,14 May 1944,USA
-Lucas,Georges,3 March 1927,Colombia
 Luhrmann,Baz,17 September 1962,Australia
 Lumet,Sidney,25 June 1924,USA
 Maddin,Guy,28 February 1956,Canada
@@ -221,8 +205,6 @@ Mann,Michael,18 January 1983,UK
 Marcello,Pietro,2 July 1976,Italy
 Marsh,James,30 April 1963,UK
 Marshall,Rob,17 October 1960,USA
-Marshall,Robert,21 June 1863,UK
-Marshall,Robert Neal,30 May 1960,USA
 Martel,Lucrecia,14 December 1966,Argentina
 McCarthy,Tom,7 June 1966,USA
 McGrath,Tom,7 August 1964,USA
@@ -292,7 +274,8 @@ Russo,Anthony,3 February 1970,USA
 Russo,Joe,Abbeville,USA
 Russo,Joe,8 July 1971,USA
 Russo,Joey,6 August 1953,USA
-Safdie,Joshua,3 April 1984,USA
+Safdie,Josh,3 April 1984,USA
+Safdie,Benny,,USA
 Satrapi,Marjane,22 November 1969,Iran
 Saura,Carlos,4 January 1932,Spain
 Schmitz,Oliver,1960,South Africa
@@ -353,3 +336,21 @@ Zulawski,Andrzej,22 November 1940,Ukraine
 Zvyagintsev,Andrey,6 February 1964,Russia
 Zwigoff,Terry,18 May 1949,USA
 Lynch,David,20 January 1946,USA
+Abrams,J. J.,27 June 1966,USA
+Almodóvar,Pedro,25 September 1949,Spain
+von Trier,Lars,30 April 1956,Denmark
+de Oliveira,Manoel,11 December 1908,Portugal
+De Palma,Brian,11 September 1940,USA
+Henckel von Donnersmarck,Florian,2 May 1973,Germany
+Ricci Lucchi,Angela,1942,Italy
+Van Sant,Gus,24 July 1952,USA
+Winding Refn,Nicolas,29 September 1970,Denmark
+Amin,Shimit,,India
+Aïnouz,Karim,17 January 1966,Brazil
+Bayona,J. A.,1975,Spain
+Sembene,Ousmane,1 January 1923,Senegal
+Singer,André,,UK
+Cuarón,Alfonso,28 November 1961,Mexico
+Tarr,Béla,21 July 1955,Hungary
+Téno,Jean-Marie,14 May 1954,Cameroon
+Périot,Jean-Gabriel,1974,France

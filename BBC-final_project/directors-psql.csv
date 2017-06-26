@@ -15,7 +15,7 @@ id,first_name,last_name
 13,Joshua,Oppenheimer
 14,Wes,Anderson
 15,Jia,Zhangke
-16,Gus Van,Sant
+16,Gus,Van Sant
 17,Kathryn,Bigelow
 18,David,Cronenberg
 19,Sarah,Polley
@@ -25,7 +25,7 @@ id,first_name,last_name
 23,Courtney,Hunt
 24,Robert,Altman
 25,Christopher,Nolan
-26,Guillermo Del,Toro
+26,Guillermo,Del Toro
 27,Michael,Haneke
 28,Werner,Herzog
 29,Cristian,Mungiu
@@ -56,14 +56,14 @@ id,first_name,last_name
 54,Luigi M.,Faccini
 55,Franco,Piavoli
 56,Pippo,Delbono
-57,Marco De,Angelis
-58,Antonio Di,Trapani
+57,Marco,De Angelis
+58,Antonio,Di Trapani
 59,Yervant,Gianikian
-60,Angela Ricci,Lucchi
+60,Angela,Ricci Lucchi
 61,Charlie,Kaufman
 62,Darren,Aronofsky
 63,Rick,Alverson
-64,Lars von,Trier
+64,Lars,von Trier
 65,Quentin,Tarantino
 66,Jim,Jarmusch
 67,Ari,Folman
@@ -244,11 +244,11 @@ id,first_name,last_name
 242,Ridley,Scott
 243,Adam,Curtis
 244,Lukas,Moodysson
-245,Brian De,Palma
+245,Brian,De Palma
 246,Mojtaba,Mirtahmasb
 247,James,Gray
 248,Laurie,Anderson
-249,Florian Henckel von,Donnersmarck
+249,Florian,Henckel von Donnersmarck
 250,Béla,Tarr
 251,Ágnes,Hranitzky
 252,Jean-Gabriel,Périot
@@ -317,7 +317,7 @@ id,first_name,last_name
 315,Michel,Hazanavicius
 316,Tom,Hooper
 317,Jean-Marc,Vallée
-318,Naji Abou,Nowar
+318,Naji,Abou Nowar
 319,Bahman,Ghobadi
 320,James,Marsh
 321,Rachid,Bouchareb
@@ -354,7 +354,7 @@ id,first_name,last_name
 352,Sidney,Lumet
 353,Woody,Allen
 354,Alain,Resnais
-355,Manoel de,Oliveira
+355,Manoel,de Oliveira
 356,Michelangelo,Antonioni
 357,Charles,Burnett
 358,John Cameron,Mitchell
@@ -394,7 +394,7 @@ id,first_name,last_name
 392,Annemarie,Jacir
 393,Ramin,Bahrani
 394,Yann,Arthus-Bertrand
-395,Nicolas Winding,Refn
+395,Nicolas,Winding Refn
 396,Andrew,Lau
 397,Alan,Mak
 398,Andrew,Adamson
@@ -421,7 +421,7 @@ id,first_name,last_name
 419,Jean-Claude,Brisseau
 420,Patrick,Wang
 421,Pirjo,Honkasalo
-422,Kleber Mendonça,Filho
+422,Kleber,Mendonça Filho
 423,Eran,Kolirin
 424,Laurent,Cantet
 425,Agnieszka,Holland

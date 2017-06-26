@@ -1,0 +1,113 @@
+last_name,first_name
+Abou Nowar,Naji
+Alverson,Rick
+Amirpour,Ana Lily
+Barnard,Clio
+Bhardwaj,Vishal
+Bielinsky,Fabian
+Bing,Wang
+Bouzid,Nouri
+Burnat,Emad
+Campanella,Juan Jose
+Castaing-Taylor,Lucien
+Chan-wook,Park
+Chang-dong,Lee
+Cuaron,Alfonso
+Darnell,Eric
+De Angelis,Marco
+Decker,Josephine
+Del Toro,Guillermo
+Delbono,Pippo
+Desai,Rehad
+Dhulia,Tigmanshu
+Di Trapani,Antonio
+Diab,Mohamed
+Dosunmu,Andrew
+El-Tahri,Jihan
+Elkabetz,Shlomi
+Erice,Victor
+Faccini,Luigi M.
+Fattahi,Sara
+Fowler,Luke
+Gadjigo,Samba
+Gaviria,Victor
+Gete,Bazi
+Gianvito,John
+Goldberg,Evan
+Gomes,Rita Azevedo
+Gonzalez Iñarritu,Alejandro
+Grandrieux,Philippe
+Gröning,Philip
+Guzman,Patricio
+Haghighi,Mani
+Haigh,Andrew
+Hansen-Løve,Mia
+Hranitzky,Agnes
+Hsiao-hsien,Hou
+Huillet,Daniele
+Jaoui,Agnes
+Jee-woon,Kim
+Jenson,Vicky
+Joon-ho,Bong
+Junfeng,Boo
+Kar-wai,Wong
+Kaurismäki,Aki
+Kent,Jennifer
+Ki-duk,Kim
+Kibinge,Judy
+Klahr,Lewis
+Kolirin,Eran
+Krupnick,Jacob
+Larrain,Pablo
+Lau,Andrew
+Layton,Bart
+Leth,Jørgen
+Llinas,Mariano
+Lund,Katia
+Marclay,Christian
+Matabane,Khalo
+Mendonça Filho,Kleber
+Michôd,David
+Ming-liang,Tsai
+Mirtahmasb,Mojtaba
+Mishra,Sudhir
+Moreh,Dror
+Nemes,Laszlo
+Neo,Jack
+Noe,Gaspar
+Ozon,François
+Paravel,Verena
+Pawlikowski,Paweł
+Pichler,Gabriela
+Pin,Tan Pin
+Periot,Jean-Gabriel
+Rajagopal,K.
+Reddy,Raam
+Reichardt,Kelly
+Riley,Stevan
+Rivers,Ben
+Rodrigues,Joao Pedro
+Rohmer,Eric
+Safdie,Josh
+Safdie,Benny
+Sang-soo,Hong
+Sciamma,Celine
+Sembene,Ousmane
+Silverman,Jason
+Singer,Andre
+Soueid,Mohamed
+Spray,Stephanie
+Szifron,Damian
+Tamhane,Chaitanya
+Tarr,Bela
+Thornton,Warwick
+Tremaine,Jeff
+Teno,Jean-Marie
+Vallee,Jean-Marc
+Varda,Agnes
+Velez,Pacho
+Wang,Nanfu
+Wang,Patrick
+Wen,Jiang
+Yimou,Zhang
+Zhangke,Jia
