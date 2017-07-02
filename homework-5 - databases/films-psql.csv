@@ -1,0 +1,594 @@
+id,title,release_year,rating,duration
+0,Mulholland Drive,2001,8.0,147
+1,In the Mood for Love,2000,8.1,98
+2,The Tree of Life,2011,6.8,139
+3,Yi Yi: A One and a Two,2000,8.1,173
+4,Goodbye to Language,2014,5.9,70
+5,The White Meadows,2009,7.7,92
+6,Night Across the Street,2012,6.1,110
+7,Certified Copy,2010,7.3,106
+8,Sparrow,2008,6.7,87
+9,Fados,2007,7.2,90
+10,Eternal Sunshine of the Spotless Mind,2004,8.3,108
+11,Syndromes and a Century,2006,7.5,105
+12,Spirited Away,2001,8.6,125
+13,The Act of Killing,2012,8.2,115
+14,The Grand Budapest Hotel,2014,8.1,99
+16,The World,2004,7.1,143
+17,Elephant,2003,7.2,81
+18,Zero Dark Thirty,2012,7.4,157
+19,A History of Violence,2005,7.5,96
+20,Stories We Tell,2012,7.6,108
+21,Casino Royale,2006,8.0,144
+22,Tabu,2012,7.4,118
+23,Snow White,2012,7.5,104
+24,Frozen River,2008,7.2,97
+25,Gosford Park,2001,7.3,131
+26,Inception,2010,8.8,148
+27,Pan's Labyrinth,2006,8.2,118
+28,Caché,2005,7.3,117
+29,Grizzly Man,2005,7.8,103
+30,"4 Months, 3 Weeks & 2 Days",2007,7.9,113
+31,Holy Motors,2012,7.1,115
+32,The Last of the Unjust,2013,7.1,220
+33,There Will Be Blood,2007,8.1,158
+34,The Piano Teacher,2001,7.4,131
+35,Margaret,2011,6.5,150
+36,American Psycho,2000,7.6,102
+37,Lourdes,2009,6.9,96
+38,Red Road,2006,6.8,113
+39,Boyhood,2014,7.9,165
+40,Tony Manero,2008,6.8,97
+41,No Country For Old Men,2007,8.1,122
+42,A Separation,2011,8.4,123
+43,Finding Nemo,2003,8.1,100
+44,Hero,2002,7.9,107
+45,The Wolf of Wall Street,2013,8.2,180
+46,Mother,2009,7.8,129
+47,The Bourne Ultimatum,2007,8.1,115
+48,Traffic,2000,7.6,147
+49,These Encounters of Theirs,2006,6.9,68
+50,Vincere,2009,6.9,128
+51,Le quattro volte,2010,7.2,88
+52,The Profession of Arms,2001,7.0,105
+53,Gostanza da Libbiano,2000,7.2,93
+54,Storia di una donna amata e di un assassino gentile,2009,,138
+55,At the First Breath of Wind,2003,7.2,85
+56,Sangue,2013,5.8,92
+57,Terra,2015,8.5,97
+58,Oh! Man,2004,7.2,71
+59,"Synecdoche, New York",2008,7.5,124
+60,Black Swan,2010,8.0,108
+61,The Comedy,2012,6.5,95
+62,Melancholia,2011,7.1,135
+63,Inglourious Basterds,2009,8.3,153
+64,Inside Llewyn Davis,2013,7.4,104
+65,Only Lovers Left Alive,2013,7.3,123
+66,The Congress,2013,6.5,122
+67,The Master,2012,7.1,144
+68,25th Hour,2002,7.7,135
+69,24 Hour Party People,2002,7.4,117
+70,Once Upon a Time in Anatolia,2011,7.8,157
+71,Zodiac,2007,7.7,157
+72,A Serious Man,2009,7.0,106
+73,Tinker Tailor Soldier Spy,2011,7.1,122
+74,Primer,2004,6.9,77
+75,"La commune (Paris, 1871)",2000,8.0,345
+76,Uncle Boonmee Who Can Recall His Past Lives,2010,6.6,114
+77,2046,2004,7.5,129
+78,Adaptation,2002,7.7,114
+79,Battle in Heaven,2005,5.7,98
+80,Inland Empire,2006,7.0,180
+81,Mysteries of Lisbon,2010,7.5,272
+82,Children of Men,2006,7.9,109
+83,City of God,2002,8.7,130
+84,The Incredibles,2004,8.0,115
+85,Birdman,2014,4.9,13
+86,Brokeback Mountain,2005,7.7,134
+87,12 Years a Slave,2013,8.1,134
+88,Fish Tank,2009,7.3,123
+89,Mommy,2014,8.1,139
+90,Talk to Her,2002,8.0,112
+91,Timbuktu,2014,7.2,97
+92,Selma,2014,7.5,128
+93,The White Ribbon,2009,7.8,144
+94,The Headless Woman,2008,6.5,87
+95,The Royal Tenenbaums,2001,7.6,110
+96,Far From Heaven,2002,7.4,107
+97,Moonrise Kingdom,2012,7.8,94
+98,Lost in Translation,2003,7.8,102
+99,A Single Man,2009,7.6,99
+100,Toy Story 3,2010,8.3,103
+101,I Am Love,2009,7.0,120
+102,Donnie Darko,2001,8.1,113
+103,Inherent Vice,2014,6.7,148
+104,Film socialisme,2010,5.8,102
+105,This Is the End,2013,6.6,107
+106,Somewhere,2010,6.3,97
+107,Almayer's Folly,2011,6.5,127
+108,The Story of Marie and Julien,2003,7.0,150
+109,Bamboozled,2000,6.5,135
+110,Under the Skin,2013,6.3,108
+111,Anomalisa,2015,7.2,90
+112,Madagascar 3: Europe's Most Wanted,2012,6.9,93
+113,Another Year,2010,7.3,129
+114,The Diving Bell and the Butterfly,2007,8.0,112
+115,The Social Network,2010,7.7,120
+116,WALL-E,2008,8.4,98
+117,The Son's Room,2001,7.4,99
+118,Extraordinary Stories,2008,8.2,245
+119,The Assassin,2015,6.4,105
+120,Million Dollar Baby,2004,8.1,132
+121,Leviathan,2014,7.6,140
+122,A Touch of Sin,2013,7.2,133
+123,Distant,2002,7.7,110
+124,The New World,2005,6.7,135
+125,A Prophet,2009,7.9,155
+126,Blue Is the Warmest Color,2013,7.8,180
+127,Moolaadé,2004,7.7,124
+128,The Secret in Their Eyes,2009,8.2,129
+129,Oldboy,2003,8.4,120
+130,Fat Girl,2001,6.5,86
+131,The Orphanage,2007,7.5,105
+132,The Hunt,2012,8.3,115
+133,Spring Breakers,2012,5.3,94
+134,My Winnipeg,2007,7.7,80
+135,The Ghost Writer,2010,7.2,128
+136,Moulin Rouge!,2001,7.6,127
+137,Star Wars: Episode III – Revenge of the Sith,2005,7.6,140
+138,Manakamana,2013,6.7,118
+139,The Curious Case of Benjamin Button,2008,7.8,166
+140,"You, The Living",2007,7.5,95
+141,Cuba: An African Odyssey,2007,8.3,118
+142,"Sexe, gombo et beurre salé",2008,6.4,81
+143,Shoot the Messenger,2006,7.0,90
+144,Red Leaves,2014,6.8,82
+145,The Colonial Misunderstanding,2004,6.8,78
+146,Restless City,2011,6.1,80
+147,Conversations on a Sunday Afternoon,2005,7.1,80
+148,Belle,2013,7.4,100
+149,Requiem for a Dream,2000,8.4,102
+150,Antichrist,2009,6.6,108
+151,The Child,2005,7.5,95
+152,Kill Bill: Vol. 1,2003,8.1,111
+153,Irreversible,2002,7.4,97
+154,Amour,2012,7.9,127
+155,Monsoon Wedding,2001,7.4,114
+156,Son of Saul,2015,7.5,107
+157,Thithi,2015,8.5,123
+158,No Man's Land,2001,8.0,98
+159,Waltz with Bashir,2008,8.0,90
+160,In Praise of Love,2001,6.5,97
+161,Like Someone In Love,2012,7.0,109
+162,Butter on the Latch,2013,5.6,72
+163,Heaven Knows What,2014,6.4,97
+164,The Future,2011,6.2,91
+165,Coma,2015,6.2,97
+166,The Matchmaker,2010,7.3,112
+167,Footnote,2011,7.1,107
+168,The Son,2002,7.7,99
+169,You Can Count On Me,2000,7.7,111
+170,Yossi & Jagger,2002,7.2,65
+171,"O Brother, Where Art Thou?",2000,7.8,107
+172,The Babadook,2014,6.8,93
+173,"Spring, Summer, Fall, Winter…and Spring",2003,8.1,103
+174,Russian Ark,2002,7.4,99
+175,Inside Out,2015,8.2,95
+176,Persepolis,2007,8.1,96
+177,Mad Max: Fury Road,2015,8.1,120
+178,Attack the Block,2011,6.6,88
+179,Before Sunset,2004,8.0,80
+180,Ratatouille,2007,8.0,111
+181,Amores Perros,2000,8.1,154
+182,Minority Report,2002,7.7,145
+183,Secret Sunshine,2007,7.5,142
+184,The Dark Knight,2008,9.0,152
+185,35 Shots of Rum,2008,7.1,100
+186,The Three Burials of Melquiades Estrada,2005,7.4,121
+187,The Blind Swordsman: Zatoichi,2003,7.6,116
+188,Dancer in the Dark,2000,8.0,140
+189,Tey,2012,6.4,86
+190,Sweet Sixteen,2002,7.5,106
+191,Ezra,2007,6.5,110
+192,Almost Famous,2000,7.9,122
+193,Memories of Murder,2003,8.1,132
+194,Tropical Malady,2004,7.3,118
+195,Hard to Be a God,2013,6.7,177
+196,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,7.3,84
+197,Let the Right One In,2008,8.0,115
+198,World of Tomorrow,2015,8.2,17
+199,Ex Machina,2015,7.5,12
+200,The Avengers,2012,8.1,143
+201,Her,2013,8.0,126
+202,Kill Bill: Vol. 2,2004,8.0,137
+203,Manchester by the Sea,2016,7.9,137
+204,The Host,2006,7.0,120
+205,District 9,2009,8.0,112
+206,Love & Friendship,2016,6.5,90
+207,3-Iron,2004,8.1,88
+208,Evolution of a Filipino Family,2004,8.0,540
+209,Pulse,2001,6.6,118
+210,Cave of Forgotten Dreams,2010,7.4,90
+211,Heaven's Story,2010,7.3,278
+212,"Norte, the End of History",2013,7.5,250
+213,"Crouching Tiger, Hidden Dragon",2000,7.9,120
+214,The Pianist,2002,8.5,150
+215,Lincoln,2012,7.4,150
+216,Life of Pi,2012,7.9,127
+217,Mystic River,2003,8.0,138
+218,American Hustle,2013,7.3,138
+219,After the Wedding,2006,7.8,120
+220,Memento,2000,8.5,113
+221,Gravity,2013,7.8,91
+222,The Five Obstructions,2003,7.5,90
+223,Ida,2013,7.4,82
+224,Nobody Knows,2004,8.1,141
+225,Wild Tales,2014,8.1,122
+226,Eldorado,2008,6.8,80
+227,The Stuart Hall Project,2013,7.0,103
+228,A Letter to Nelson Mandela,2013,6.8,85
+229,Waiting for Happiness,2002,6.8,90
+230,Something Necessary,2013,7.0,85
+231,Sembène!,2015,7.6,89
+232,5 Broken Cameras,2011,7.8,
+233,Hooligan Sparrow,2016,7.3,84
+234,7 Letters,2015,8.1,116
+235,Weekend,2011,7.7,97
+236,How to Survive a Plague,2012,7.6,110
+237,American Splendor,2003,7.5,101
+238,An Injury to One,2002,7.8,53
+239,Love & Basketball,2000,7.2,124
+240,It's Such a Beautiful Day,2012,8.3,62
+241,Actress,2014,6.1,86
+242,Carol,2015,7.2,118
+243,The Wind Rises,2013,7.8,126
+244,Girl Walk: All Day,2011,8.0,75
+245,Collateral,2004,7.6,115
+246,Brooklyn,2015,7.5,117
+247,Nightcrawler,2014,7.9,118
+248,Take Shelter,2011,7.4,120
+249,Fantastic Mr Fox,2009,7.8,87
+250,Senna,2010,8.6,106
+251,Frances Ha,2012,7.4,86
+252,Dogtooth,2009,7.3,94
+253,A Pigeon Sat on a Branch Reflecting on Existence,2014,7.0,101
+254,Katyn,2007,7.1,121
+255,Sympathy for Mr Vengeance,2002,7.7,129
+256,Still Life,2006,7.3,111
+257,Archipelago,2010,6.0,114
+258,Divine Intervention,2002,6.6,92
+259,Crimson Gold,2003,7.6,95
+260,Spider-Man 2,2004,7.3,127
+261,Frozen,2013,7.5,102
+262,Shaun of the Dead,2004,8.0,99
+263,Shame,2011,7.2,101
+264,Head-On,2004,8.0,121
+265,Sideways,2004,7.5,126
+266,Dogville,2003,8.0,178
+267,Short Term 12,2013,8.0,96
+268,Blue Valentine,2010,7.4,112
+269,The Squid and the Whale,2005,7.4,81
+270,Jersey Boys,2014,6.8,134
+271,Nine Queens,2000,7.9,114
+272,Mia Madre,2015,6.8,106
+273,"Right Now, Wrong Then",2015,7.2,121
+274,Adventureland,2009,6.8,107
+275,Open Range,2003,7.5,139
+276,Profit Motive and the Whispering Wind,2007,7.1,58
+277,In Jackson Heights,2015,7.3,190
+278,Love Exposure,2008,8.1,237
+279,Sicario,2015,7.6,121
+280,No,2012,7.4,118
+281,Whiplash,2014,8.5,107
+282,Animal Kingdom,2010,7.3,113
+283,Apocalypto,2006,7.8,139
+284,Three Monkeys,2008,7.4,109
+285,Listen to Me Marlon,2015,8.2,103
+286,Talladega Nights: The Ballad of Ricky Bobby,2006,6.6,108
+287,Centochiodi,2007,6.4,92
+288,United 93,2006,7.6,111
+289,Bridesmaids,2011,6.8,125
+290,The Look of Silence,2014,8.3,103
+291,Punch-Drunk Love,2002,7.3,95
+292,We Need to Talk About Kevin,2011,7.5,112
+293,Chuck & Buck,2000,6.6,96
+294,Gladiator,2000,8.5,155
+295,The Century of the Self,2002,9.0,235
+296,Munich,2005,7.6,164
+297,Lilya 4-Ever,2002,7.9,109
+298,Femme Fatale,2002,6.3,114
+299,This Is Not a Film,2011,7.5,75
+300,Two Lovers,2008,7.1,110
+301,Heart of a Dog,2015,7.1,75
+302,The Lives of Others,2006,8.5,137
+303,Werckmeister Harmonies,2000,8.3,145
+304,White Material,2009,7.0,106
+305,Even If She Had Been a Criminal...,2006,7.9,9
+306,Stranger by the Lake,2013,6.8,100
+307,Colossal Youth,2006,7.1,156
+308,Story of My Death,2013,6.5,148
+309,Aurora,2010,6.7,181
+310,The Turin Horse,2011,7.8,146
+311,Shutter Island,2010,8.1,138
+312,Saraband,2003,7.8,107
+313,The Return,2003,8.0,105
+314,Import Export,2007,7.1,141
+315,The Revenant,2015,8.0,156
+316,Tie Xi Qu: West of the Tracks,2002,8.6,551
+317,Le filmeur,2005,6.8,97
+318,Capitalism: Child Labor,2007,6.6,14
+319,Psalm III: 'Night of the Meek',2002,7.2,24
+320,Daylight Moon,2002,8.9,13
+321,A Commuter’s Life (What a Life!),2014,,19
+322,The Fourth Watch,2000,6.8,9
+323,Our Daily Bread,2005,7.7,92
+324,Ankhon Dekhi,2013,8.1,107
+325,Court,2014,7.8,116
+326,"LSD: Love, Sex Aur Dhokha",2010,7.1,155
+327,Dev D,2009,8.1,144
+328,Paan Singh Tomar,2012,8.3,135
+329,Udaan,2010,8.2,134
+330,Hazaaron Khwaishein Aisi,2003,8.0,120
+331,Maqbool,2003,8.2,132
+332,Lagaan: Once Upon a Time in India,2001,8.2,224
+333,AI: Artificial Intelligence,2001,7.1,146
+334,The Lady and the Duke,2001,6.9,129
+335,Silent Souls,2010,6.7,78
+336,Me and You and Everyone We Know,2005,7.3,91
+337,Gone Girl,2014,8.1,149
+338,Pain & Gain,2013,6.5,129
+339,When the Levees Broke: A Requiem in Four Acts,2006,8.6,255
+340,Before Midnight,2013,7.9,109
+341,Fruitvale Station,2013,7.5,85
+342,Brick,2005,7.4,110
+343,Stray Dogs,2013,7.0,138
+344,Ten,2002,7.5,94
+345,Closed Curtain,2013,6.6,106
+346,Tangerine,2015,7.0,88
+347,Notre musique,2004,7.0,80
+348,Triple Agent,2004,6.5,115
+349,Gran Torino,2008,8.2,116
+350,Horse Money,2014,7.0,103
+351,Death Proof – Grindhouse,2007,7.1,113
+352,Déjà Vu,2006,7.0,126
+353,Seventh Code,2013,5.7,60
+354,Dreams of a Life,2011,6.8,95
+355,The Gleaners and I,2000,7.1,63
+356,Lumumba,2000,7.2,115
+357,Hunger,2008,7.6,96
+358,"Eat, Sleep, Die",2012,6.5,104
+359,Middle of Nowhere,2012,6.5,97
+360,Star Trek,2009,8.0,127
+361,Waking Life,2001,7.8,99
+362,Enter the Void,2009,7.3,161
+363,Of Gods and Men,2010,7.2,122
+364,Into Great Silence,2005,7.4,169
+365,The Descendants,2011,7.3,115
+366,Beasts of the Southern Wild,2012,7.3,93
+367,Idiocracy,2006,6.6,84
+368,The Hurt Locker,2008,7.6,131
+369,Michael Clayton,2007,7.3,119
+370,You Can Count on Me Me,2000,7.7,111
+371,Y Tu Mamá También,2001,7.7,106
+372,Good Night and Good Luck,2005,7.5,93
+373,Hugo,2011,7.5,126
+374,Quills,2000,7.3,124
+375,The Sapphires,2012,7.1,103
+376,Where Do We Go Now?,2011,7.5,110
+377,Ajami,2009,7.4,124
+378,Chakde! India,2007,8.3,153
+379,Amélie,2001,8.4,122
+380,Avatar,2009,7.8,162
+381,Coming Home,2014,7.3,109
+382,The Wrestler,2008,7.9,109
+383,The Great Beauty,2013,7.7,141
+384,Eden,2014,4.7,90
+385,Ghost World,2001,7.4,111
+386,Wendy and Lucy,2008,7.1,80
+387,Everyone Else,2009,6.7,119
+388,Millennium Mambo,2001,7.0,119
+389,In Vanda’s Room,2000,7.3,170
+390,Toni Erdmann,2016,7.6,162
+391,My Golden Days,2015,6.9,123
+392,Carlos,2010,7.7,334
+393,Sumas y Restas,2004,6.8,108
+394,Regular Lovers,2005,7.1,183
+395,The Days When I Do Not Exist,2002,6.8,114
+396,The Death of Mr Lazarescu,2005,8.0,153
+397,Phoenix,2014,7.3,98
+398,Platform,2000,7.4,154
+399,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,2000,8.5,288
+400,Silver Linings Playbook,2012,7.8,122
+401,The Artist,2011,7.9,100
+402,The King’s Speech,2010,8.0,118
+403,Vera Drake,2004,7.7,125
+404,Wild,2014,7.1,115
+405,Theeb,2014,7.3,100
+406,A Time for Drunken Horses,2000,7.7,80
+407,Man on Wire,2008,7.8,94
+408,Days of Glory,2006,7.1,120
+409,Cosmos,2015,5.9,103
+410,Che,2008,7.2,134
+411,The Intruder,2004,7.0,130
+412,Morvern Callar,2002,6.8,97
+413,The Circle,2000,7.5,90
+415,Rust and Bone,2012,7.5,120
+416,5x2,2004,6.7,90
+417,"Police, Adjective",2009,7.0,113
+418,Winter Sleep,2014,8.2,196
+419,Jackass 3D,2010,7.1,94
+420,What Time Is It There?,2001,7.3,116
+421,Letters From Iwo Jima,2006,7.9,141
+422,Nebraska,2013,7.7,115
+423,The Magdalene Sisters,2002,7.8,114
+424,Father of My Children,2009,6.7,110
+425,The Consequences of Love,2004,7.6,100
+426,Summer Hours,2008,7.3,103
+427,Wet Hot American Summer,2001,6.7,97
+428,Cast Away,2000,7.7,143
+429,Café Lumière,2003,7.0,108
+430,Millennium Actress,2001,7.9,87
+431,Hotel Rwanda,2004,8.1,121
+432,Birth,2004,6.1,100
+433,Silent Light,2007,7.3,136
+434,Winter's Bone,2010,7.2,100
+435,Moon,2009,7.9,97
+436,The Taste of Others,2000,7.3,112
+437,The Assassination of Jesse James by the Coward Robert Ford,2007,7.5,160
+438,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,178
+439,Making Of,2006,6.8,120
+440,House of Flying Daggers,2004,7.6,119
+441,Miners Shot Down,2014,7.9,86
+442,678,2010,7.5,100
+443,Hijack Stories,2000,6.6,90
+444,Spotlight,2015,8.1,128
+445,The Gatekeepers,2012,7.6,101
+446,Sexy Beast,2000,7.3,83
+447,Anchorman: The Legend of Ron Burgundy,2004,7.2,94
+448,Los Angeles Plays Itself,2003,7.9,169
+449,Crank,2006,7.0,88
+450,The Forest for the Trees,2003,7.3,81
+451,Miami Vice,2006,6.0,134
+452,Woman on the Beach,2006,7.0,100
+453,Nostalgia for the Light,2010,7.6,90
+454,Lifeline,2002,7.6,5
+455,Kung Fu Hustle,2004,7.8,99
+456,Instructions for a Light and Sound Machine,2005,6.8,17
+457,Un lac,2008,6.7,90
+458,Detention,2011,5.8,93
+459,A Vingança de Uma Mulher,2012,5.9,100
+460,Before the Devil Knows You're Dead,2007,7.3,117
+461,Match Point,2005,7.7,124
+462,You Ain’t Seen Nothin’ Yet,2012,6.3,115
+463,No Home Movie,2015,6.7,115
+464,The Romance of Astrea and Celadon,2009,6.5,109
+465,The Strange Case of Angelica,2010,6.3,97
+466,Michelangelo Eye to Eye,2004,7.0,15
+467,Warming by the Devil's Fire,2003,7.0,106
+468,You Will Meet a Tall Dark Stranger,2010,6.3,98
+469,The Hateful Eight,2015,7.8,187
+470,Hedwig and the Angry Inch,2001,7.8,95
+471,Battle Royale,2000,7.7,114
+472,Bad Lieutenant: Port of Call New Orleans,2009,6.7,122
+473,Night Will Fall,2014,8.0,75
+474,The Lobster,2015,7.1,119
+475,Best in Show,2000,7.5,90
+476,About Elly,2009,8.1,119
+477,I’m Going Home,2001,7.1,90
+478,Good Bye Lenin!,2003,7.7,121
+479,The Baader Meinhof Complex,2008,7.4,150
+480,Django Unchained,2012,8.4,165
+481,Alpha Dog,2006,6.9,122
+482,Young Adult,2011,6.3,94
+483,Tropic Thunder,2008,7.0,107
+484,Dirty Pretty Things,2002,7.4,97
+485,The Imposter,2012,7.5,99
+486,A Girl Walks Home Alone at Night,2014,7.0,101
+487,Bone Tomahawk,2015,7.1,132
+488,The Queen,2006,7.3,103
+489,Climates,2006,7.3,101
+490,Poetry,2010,7.8,139
+491,Beyond the Hills,2012,7.6,150
+492,All Divided Selves,2011,6.6,93
+493,Oasis,2002,8.0,133
+494,Bad Education,2004,7.5,106
+495,The House of Mirth,2000,7.1,135
+496,Locke,2013,7.1,85
+497,Sin Nombre,2009,7.6,96
+498,Babel,2006,7.5,143
+499,The Sky Trembles and the Earth Is Afraid and the Two Eyes Are Not Brothers,2015,6.5,95
+500,From What Is Before,2014,8.0,338
+501,Lost and Beautiful,2015,6.5,87
+502,The Captive,2000,5.9,118
+503,The Yards,2000,6.4,115
+504,Shara,2003,7.7,100
+505,Twixt,2011,4.8,88
+506,To Die Like a Man,2009,5.9,134
+507,The Deep Blue Sea,2011,6.3,98
+508,Sita Sings the Blues,2008,7.7,82
+509,Take This Waltz,2011,6.6,116
+510,Bend It Like Beckham,2002,6.7,112
+511,The Namesake,2006,7.6,122
+512,Paradise Now,2005,7.5,90
+513,Revolutionary Road,2008,7.3,119
+514,The Beat That My Heart Skipped,2005,7.3,108
+515,The Edge of Heaven,2007,7.9,122
+516,Incendies,2010,8.2,131
+517,Elena,2011,7.3,109
+518,Master and Commander: The Far Side of the World,2003,7.4,138
+519,The Prestige,2006,8.5,130
+520,Song of the Sea,2014,8.1,93
+521,"Monsters, Inc.",2001,8.1,92
+522,The Arbor,2010,7.2,94
+523,The Clock,2010,9.0,1440
+524,"Goodbye, Dragon Inn",2003,7.1,82
+525,Monster,2003,7.3,109
+526,Caramel,2007,7.2,95
+527,The Tiger and the Snow,2005,7.2,110
+528,Taxi Tehran,2015,7.4,82
+529,A Borrowed Identity,2014,7.3,104
+530,When I Saw You,2012,6.6,98
+531,99 Homes,2014,7.1,112
+532,Human,2015,8.7,190
+533,Drive,2011,7.8,100
+534,Alexandre Sokurov,2015,7.8,60
+535,Infernal Affairs,2002,8.1,101
+536,Shrek,2001,7.9,90
+537,The Time That Remains,2009,7.1,109
+538,The Box of Life,2002,6.8,112
+539,Men at Work,2006,6.7,75
+540,My Heart Beats Only for Her,2009,,86
+541,Arabian Nights: Volume 1 – The Restless One,2015,7.1,125
+542,"I Travel Because I Have To, I Come Back Because I Love You",2009,7.2,75
+543,Leviathan,2012,6.5,87
+544,Three Times,2005,7.0,120
+545,The Departed,2006,8.5,151
+546,Beginners,2010,7.2,105
+547,Gett: The Trial of Viviane Amselem,2014,7.7,115
+548,Knight of Cups,2015,5.7,118
+549,Godzilla,2014,6.4,123
+550,Girlhood,2014,6.9,113
+551,Team America: World Police,2004,7.2,98
+552,Still Walking,2008,8.0,115
+553,Step Brothers,2008,6.9,98
+554,Bright Star,2009,7.0,119
+555,Mr Turner,2014,6.8,150
+556,The Lord of the Rings: The Return of the King,2003,8.9,201
+557,Kill List,2011,6.3,95
+558,Kiss Kiss Bang Bang,2005,7.6,103
+559,Bowling for Columbine,2002,8.0,120
+560,Samson & Delilah,2009,7.1,101
+561,The Man Without A Past,2002,7.7,97
+562,Secret Things,2002,6.1,115
+563,La Ciénaga,2001,7.0,103
+564,In the Family,2011,7.2,169
+565,Gerry,2002,6.2,103
+566,Songs from the Second Floor,2000,7.7,98
+567,Journey to the West,2014,6.9,56
+568,The 3 Rooms of Melancholia,2004,7.3,106
+569,Japon,2002,6.9,122
+570,Neighboring Sounds,2012,7.1,131
+571,The Band’s Visit,2007,7.6,87
+572,Time Out,2001,7.4,134
+573,Burning Bush,2013,8.0,231
+574,Barbara,2012,7.2,105
+575,A Tale of Two Sisters,2003,7.3,115
+576,Meek's Cutoff,2010,6.6,104
+577,Captain America: Winter Soldier,2014,7.8,136
+578,Star Wars: Episode VII – The Force Awakens,2015,7.8,
+579,Love Actually,2003,7.7,135
+580,Chicago,2002,7.2,113
+581,High Fidelity,2000,7.5,113
+582,Four Lions,2010,7.3,97
+583,Gangs of Wasseypur,2012,8.3,320
+584,This Is England,2006,7.7,101
+585,The Skin I Live In,2011,7.6,120
+586,Once,2007,7.9,85
+587,Blissfully Yours,2002,7.1,125
+588,Be Kind Rewind,2008,6.4,102
+589,Frontier of Dawn,2008,6.6,106
+590,I Don't Want to Sleep Alone,2006,7.0,115
+591,Kings and Queen,2004,7.1,
+592,The Hours,2002,7.6,110
+593,The Sun Also Rises,2007,7.1,116
+594,"Lust, Caution",2007,7.6,157
