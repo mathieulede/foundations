@@ -7,16 +7,22 @@ The Somerville Housing Waiting lists omitting personal identifying information. 
 1. I Converted the PDF into images with ImageMagick because it is image-based and does not have any embedded text.
 
 ```sh
-$ convert -units PixelsPerInch -density 150 2013_rejected_vanity_plate_applications_Redacted.pdf vanity_plate.png
+$ convert -units PixelsPerInch -density 300 9-05-12_mr740_RES.pdf[3] -threshold 70% convert_output/waiting_list.png
 ```
 
-2. Then I used [Soma's Kull tool](https://jsoma.github.io/kull/#/) to select the values and [Soma's tesseract-uzn](https://github.com/jsoma/tesseract-uzn) to extract them without using a uzn file for each image.
+2. Then I used [Soma's Kull tool](https://jsoma.github.io/kull/#/) to select the values and [Soma's tesseract-uzn](https://github.com/jsoma/tesseract-uzn) to extract them without using a uzn file for each image. I created one uzn file per choosen column.
 
 ```sh
 $ for i in *.png ; do tesseract $i $i;  done;
 ```
 
-I tried to add a threshold, increase the DPI, change the orientation of the page, but was unable to get a good result. 
+I tried to add a threshold, increase the DPI, change the orientation of the page, but was unable to get a good result.
+
+3. I used grep to concatenate the four TXT files into a CSV file. 
+
+```sh
+$ grep
+```
 
 ## A few questions
 
