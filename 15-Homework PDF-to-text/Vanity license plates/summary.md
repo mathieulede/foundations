@@ -2,6 +2,8 @@
 
 A list of all personalized license plate number applications that were rejected for the year 2013 in New Hampshire. [MuckRock page](https://www.muckrock.com/foi/new-hampshire-81/rejected-personalized-aka-vanity-license-plates-in-2013-department-of-motor-vehicles-11650/)
 
+## Process
+
 1. I Converted the PDF into images with ImageMagick because it is image-based and does not have any embedded text.
 
 ```sh
@@ -16,4 +18,6 @@ $ for i in *.png ; do tesseract $i $i;  done;
 
 3. In python, I used glob and, as there is no tables or fixed format, regex to extract the number, date and reasons for rejection.
 
-4. We could get the most wanted vanity plate number. Show the time of the year when the demand is the highest. Group the type of vanity plates with regex to find the sexual oriented, violent one, etc. (F.*K.*) (P.*SY) (K.*L.*) (M[OU]M)
+## A few questions
+
+We could get the most wanted vanity plate number. Show the time of the year when the demand is the highest. Group the type of vanity plates with regex to find the sexual oriented, violent one, etc. (F.*K.*) (P.*SY) (K.*L.*) (M[OU]M)
