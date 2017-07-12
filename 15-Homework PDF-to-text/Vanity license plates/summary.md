@@ -7,11 +7,11 @@ A list of all personalized license plate number applications that were rejected 
 1. I Converted the PDF into images with ImageMagick because it is image-based and does not have any embedded text.
 
 ```sh
-$ convert -density 150 2013_rejected_vanity_plate_applications_Redacted.pdf vanity_plate.png
+$ convert -units PixelsPerInch -density 150 2013_rejected_vanity_plate_applications_Redacted.pdf vanity_plate.png
 ```
 
 2. Then I used Tesseract to get a text output. I didn't use UZN because the scans where not well positionned from one page to another.
-.
+
 ```sh
 $ for i in *.png ; do tesseract $i $i;  done;
 ```
