@@ -13,7 +13,7 @@ $ convert -units PixelsPerInch -density 300 9-05-12_mr740_RES.pdf[3] -threshold 
 2. Then I used [Soma's Kull tool](https://jsoma.github.io/kull/#/) to select the values and [Soma's tesseract-uzn](https://github.com/jsoma/tesseract-uzn) to extract them without using a uzn file for each image. I created one uzn file per choosen column.
 
 ```sh
-$ for i in *.png ; do tesseract $i $i;  done;
+$ for i in convert_output/*.png ; do tesseract-uzn waiting_list_date.uzn convert_output/$i.png > date_$i.txt;  done;
 ```
 
 I tried to add a threshold, increase the DPI, change the orientation of the page, but was unable to get a good result.
@@ -26,4 +26,4 @@ $ grep
 
 ## A few questions
 
-We could get the average age and number of people in families that are on the waiting list, look for increase of the demands during certain periods of the year
+We could get the average age and number of people in families that are on the waiting list, look for increases of the demands during certain periods of the year

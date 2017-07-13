@@ -16,8 +16,9 @@ $ convert -units PixelsPerInch -density 150 2013_rejected_vanity_plate_applicati
 $ for i in *.png ; do tesseract $i $i;  done;
 ```
 
-3. In python, I used glob and, as there is no tables or fixed format, regex to extract the number, date and reasons for rejection.
+3. In python, I used glob to concatenate all the files and, as there is no tables or fixed format, regex to extract the number, date and reasons for rejection.
+[The notebook](https://github.com/mathieulede/foundations/blob/master/15-Homework%20PDF-to-text/Vanity%20license%20plates/Vanity%20license%20plates.ipynb)
 
 ## A few questions
 
-We could get the most wanted vanity plate number. Show the time of the year when the demand is the highest. Group the type of vanity plates with regex to find the sexual oriented, violent one, etc. (F.*K.*) (P.*SY) (K.*L.*) (M[OU]M)
+We could get the most wanted vanity plate number. Show the time of the year when the demand is the highest. Group the type of vanity plates with regex to find the sexual oriented ones, violent ones, etc. `(F.*K.*)` `(P.*SY)` `(K.*L.*)` `(M[OU]M)`
