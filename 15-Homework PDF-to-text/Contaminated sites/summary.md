@@ -12,6 +12,8 @@ A complete list of contaminated sites in the Upper Peninsula pulled together by 
 df.replace(to_replace='\r', value=' ', regex=True, inplace=True)
 ```
 
+[The cleaned data](https://github.com/mathieulede/foundations/blob/master/15-Homework%20PDF-to-text/Contaminated%20sites/contamined_sites.csv)
+
 ## A few questions
 
 We could get the most poluted places in the Upper Peninsula, look for clusters, find the companies that pollute the most, the cities near poluted places, the lakes or rivers near these places and the cities downstream.

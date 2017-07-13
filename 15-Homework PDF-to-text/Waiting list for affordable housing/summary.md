@@ -14,25 +14,31 @@ $ convert -units PixelsPerInch -density 300 9-05-12_mr740_RES.pdf[2-10] -thresho
 
 ```sh
 $ for i in convert_output/*.png ; do ./tesseract-uzn date_waiting_list.uzn $i > $i-date.txt;  done;
-
+```
+```sh
 $ for i in convert_output/*.png ; do ./tesseract-uzn age_waiting_list.uzn $i > $i-age.txt;  done;
-
+```
+```sh
 $ for i in convert_output/*.png ; do ./tesseract-uzn members_waiting_list.uzn $i > $i-members.txt;  done;
-
+```
+```sh
 $ for i in convert_output/*.png ; do ./tesseract-uzn disabled_waiting_list.uzn $i > $i-disabled.txt;  done;
 ```
 
 I tried to add a threshold, increase the DPI, change the orientation of the page, but was unable to get a good result.
 
-3. I used paste to concatenate the four TXT files into a TSV file. 
+3. I could have used `cat` to concatenate the TXT files into a new big file and then `paste` to create a TSV file from them but it's safer to go line by line to avoid mismatches. 
 
 ```sh
-$ for i in tesseract_output/*-date.txt cat $i file2.txt > fileresults.txt
-
-$ cat file1.txt file2.txt > fileresults.txt
-
-$ paste file1.txt file2.txt > fileresults.txt
+$ for i in tesseract_output/*-date.txt; do cat $i >> fileresults.txt; done;
 ```
+```sh
+$ paste file1.txt file2.txt file3.txt file4.txt > result.txt
+```
+
+4. I used python and glob to concatenate everything [The notebook](https://github.com/mathieulede/foundations/blob/master/15-Homework%20PDF-to-text/Vanity%20license%20plates/Vanity%20license%20plates.ipynb)
+
+[The cleaned data](https://github.com/mathieulede/foundations/blob/master/15-Homework%20PDF-to-text/Vanity%20license%20plates/Vanity%20license%20plates.ipynb)
 
 ## A few questions
 
