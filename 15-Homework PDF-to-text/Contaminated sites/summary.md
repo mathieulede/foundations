@@ -14,4 +14,4 @@ df.replace(to_replace='\r', value=' ', regex=True, inplace=True)
 
 ## A few questions
 
-We could get the most poluted places in the Upper Peninsula, look for clusters, find the company that pollute the most, the cities near poluted places, the lakes or rivers near these places and the cities downstream.
+We could get the most poluted places in the Upper Peninsula, look for clusters, find the companies that pollute the most, the cities near poluted places, the lakes or rivers near these places and the cities downstream.
