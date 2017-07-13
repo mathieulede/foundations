@@ -36,7 +36,7 @@ $ for i in tesseract_output/*-date.txt; do cat $i >> fileresults.txt; done;
 $ paste file1.txt file2.txt file3.txt file4.txt > result.txt
 ```
 
-4. I used python and glob to concatenate everything [The notebook with an histogram](https://github.com/mathieulede/foundations/blob/master/15-Homework%20PDF-to-text/Vanity%20license%20plates/Vanity%20license%20plates.ipynb)
+4. I used python and glob to concatenate everything [The notebook with an histogram](https://github.com/mathieulede/foundations/blob/master/15-Homework%20PDF-to-text/Waiting%20list%20for%20affordable%20housing/Waiting%20lists%20for%20affordable%20housing.ipynb)
 
 [The cleaned data](https://github.com/mathieulede/foundations/blob/master/15-Homework%20PDF-to-text/Waiting%20list%20for%20affordable%20housing/waiting_list.csv)
 
