@@ -19,7 +19,7 @@ $ for i in *.png ; do tesseract $i $i;  done;
 3. In python, I used glob to concatenate all the files and, as there is no tables or fixed format, regex to extract the number, date and reasons for rejection.
 [The notebook](https://github.com/mathieulede/foundations/blob/master/15-Homework%20PDF-to-text/Vanity%20license%20plates/Vanity%20license%20plates.ipynb)
 
-[The cleaned data](https://github.com/mathieulede/foundations/blob/master/15-Homework%20PDF-to-text/Vanity%20license%20plates/result.csv)
+[The cleaned data](https://github.com/mathieulede/foundations/blob/master/15-Homework%20PDF-to-text/Vanity%20license%20plates/vanity_license_plates.csv)
 
 ## A few questions
 
