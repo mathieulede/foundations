@@ -6,7 +6,7 @@ A complete list of contaminated sites in the Upper Peninsula pulled together by 
 
 1. I used Tabula to extract the PDF into a CSV file.
 
-2. The CSV is clean but I had to replace all the carriage returns `\r` by an espace in jupyter. [The notebook](https://github.com/mathieulede/foundations/blob/master/15-Homework%20PDF-to-text/Contaminated%20sites/Contamined%20sites.ipynb)
+2. The CSV is clean but I had to replace all the carriage returns `\r` by an espace in jupyter. [The notebook, with a map](https://github.com/mathieulede/foundations/blob/master/15-Homework%20PDF-to-text/Contaminated%20sites/Contamined%20sites.ipynb)
 
 ```python
 df.replace(to_replace='\r', value=' ', regex=True, inplace=True)
