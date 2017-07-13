@@ -10,7 +10,7 @@ The Somerville Housing Waiting lists omitting personal identifying information. 
 $ convert -units PixelsPerInch -density 300 9-05-12_mr740_RES.pdf[2-10] -threshold 70% convert_output/waiting_list.png
 ```
 
-2. Then I used [Soma's Kull tool](https://jsoma.github.io/kull/#/) to select the values and [Soma's tesseract-uzn](https://github.com/jsoma/tesseract-uzn) to extract them without using a uzn file for each image. I created one uzn file per choosen column.
+2. Then I used [Soma's Kull tool](https://jsoma.github.io/kull/#/) to select the values and [Soma's tesseract-uzn](https://github.com/jsoma/tesseract-uzn) to extract them without using a uzn file for each image. I created one uzn file per chosen column.
 
 ```sh
 $ for i in convert_output/*.png ; do ./tesseract-uzn date_waiting_list.uzn $i > $i-date.txt;  done;
