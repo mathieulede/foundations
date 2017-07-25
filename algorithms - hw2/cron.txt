@@ -1,0 +1,2 @@
+0 8 * * * pyhton3 ~/weather_alert.py
+*/30 * * * 1-5 python3 ~/headline_alert.py
